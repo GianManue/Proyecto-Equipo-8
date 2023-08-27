@@ -1,2 +1,1 @@
 "Problemática"  "Contexto"
-Editar rx
