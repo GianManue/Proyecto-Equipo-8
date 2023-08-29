@@ -30,7 +30,7 @@ detectarse con ayuda de herramientas como la electrocardiografía, la cual debe 
 |Heal Force Monitor ECG PC-80B|- Monitoriza el ECG y la frecuencia cardíaca en cualquier momento. - El software estándar de análisis de datos puede cargar datos en la computadora para el análisis estadístico. - Almacena una gran cantidad de datos.|- Tiene un elevado costo alrededor de los €520.00. - Su interfaz está diseñada para cardiólogos, lo que dificulta su uso para cualquier persona.|![69536-16760822](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/3d8f3bd1-5010-45bf-b2d3-1a77134ac0cb)|
   ## Caso clínico
   ### Datos personales del paciente
-  * Nombre: Alexis Matìas Rodrìguez Martìnez 
+  * Nombre: Alexis Matías Rodríguez Martínez 
   * Edad: 45 años
   * Género: Masculino
   * Residencia: Pachacamac, Lima
