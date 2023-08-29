@@ -22,9 +22,9 @@ detectarse con ayuda de herramientas como la electrocardiografía, la cual debe 
 ###  Formulación de problemática
 ¿Cómo podríamos diseñar e implementar un dispositivo de bajo costo, en centros de salud donde estos escasean, que cumpla con funciones básicas para el análisis y detección de algunas enfermedades cardiovasculares?
 ## Estado del Arte científico
-| Material  | Descripción | Imagen |
+| Material  | Ventajas | Desventajas |
 | ------------- | ------------- |------------- |
-| Electrocardiografo en reposo. (cardio express SL12A)| - Con batería recargable incorporada para permitir la portabilidad. Cumple con los requisitos de ANSI/AAMI EC11. *Pantalla táctil de alta resolución para facilitar el uso y la interpretación *Detección automática de arritmias *Facilitar el análisis y la generación de informes  ||
+| Electrocardiografo en reposo. (cardio express SL12A)| - Con batería recargable incorporada para permitir la portabilidad. - Cumple con los requisitos de ANSI/AAMI EC11. - Pantalla táctil de alta resolución para facilitar el uso y la interpretación. - Detección automática de arritmias. - Facilitar el análisis y la generación de informes  ||
 ||||
 ||||
 
