@@ -14,7 +14,7 @@ En el Perú, es una de las causas importante de muerte, se estima que, de
 todas las causas de muertes prematuras, el 15% son causadas por Enfermedades
 cardiovasculares con una tasa de mortalidad de 143 muertes por 100000 habitantes. [2]
 
-Es posible que no te diagnostiquen enfermedades de las arterias coronarias hasta que tengas un ataque cardíaco, angina de pecho, un accidente cerebrovascular o insuficiencia cardíaca. Es importante estar atento a los síntomas cardíacos y comunicar las preocupaciones al proveedor de atención médica. A veces, las enfermedades cardíacas (cardiovasculares) pueden detectarse a tiempo con exámenes médicos regulares. [2]
+Es posible que no te diagnostiquen enfermedades de las arterias coronarias hasta que tengas un ataque cardíaco, angina de pecho, un accidente cerebrovascular o insuficiencia cardíaca. Es importante estar atento a los síntomas cardíacos y comunicar las preocupaciones al proveedor de atención médica. A veces, las enfermedades cardíacas (cardiovasculares) pueden detectarse a tiempo con exámenes médicos regulares. [3]
 
 Una gran parte de emergencias cardiovasculares que llevan a la muerte, tales
 como Fibrilación ventricular, Taquicardia Ventricular, entre otros pueden
