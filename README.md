@@ -1,5 +1,5 @@
 # Biodiseño Equipo 8
-Bienvenidos al repositorio  del Grupo 8 del curso Introducción a señales biomédicas
+Bienvenidos al repositorio  del Grupo 8 del curso Fundamentos de Biodiseño
 ### Intregrantes
 * Gian Manuel Rojas Vergaray
 * Diego Alexander Nolasco Murillo
