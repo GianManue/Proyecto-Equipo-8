@@ -7,18 +7,19 @@ Bienvenidos al repositorio  del Grupo 8 del curso Fundamentos de Biodiseño
 * Daniel Alain Estela Rodríguez
 * Kusi Qoyllur Uñapillco Franco
 ## Contexto
-Las enfermedades cardiovasculares son la principal causa de mortalidad en el
-mundo, siendo la causa de aproximadamente 31% de muertes durante el año 2017. [1]
+En Perú, se estima que, de todas las causas de muertes prematuras, el 15% son causadas por Enfermedades cardiovasculares con una tasa de mortalidad de 143 muertes por 100000 habitantes(2).
 
-En el Perú, es una de las causas importante de muerte, se estima que, de
-todas las causas de muertes prematuras, el 15% son causadas por Enfermedades
-cardiovasculares con una tasa de mortalidad de 143 muertes por 100000 habitantes. [2]
+Es posible que no se diagnostiquen enfermedades de las arterias coronarias hasta que se tenga un ataque cardíaco, angina de pecho, un accidente cerebrovascular o insuficiencia cardíaca. Es importante estar atento a los síntomas cardíacos y comunicar las preocupaciones al proveedor de atención médica. A veces, las enfermedades cardíacas (cardiovasculares) pueden detectarse a tiempo con exámenes médicos regulares [2].
 
-Es posible que no se diagnostiquen enfermedades de las arterias coronarias hasta que empiecen los ataques cardiácos, angina de pecho, un accidente cerebrovascular o insuficiencia cardíaca. Es importante estar atento a los síntomas cardíacos y comunicar las preocupaciones al proveedor de atención médica. A veces, las enfermedades cardíacas (cardiovasculares) pueden detectarse a tiempo con exámenes médicos regulares y el monitoreo constante. [3]
+### Hospital Nacional Dos de Mayo de Perú
+Se realizó un estudio observacional descriptivo en un hospital peruano de tercer nivel (Hospital Nacional Dos de Mayo, Lima, Perú). Se reportó que a partir de 446 pacientes que ingresaron en el servicio. Las cardiopatías más frecuentes fueron la insuficiencia cardiaca (51,57%), las cardiopatías congénitas (23,99%), la fibrilación auricular (17,49%) y el infarto agudo de miocardio (14,57%)[4].
 
-Una gran parte de emergencias cardiovasculares que llevan a la muerte, tales
-como Fibrilación ventricular, Taquicardia Ventricular, entre otros pueden
-detectarse con ayuda de herramientas como la electrocardiografía, la cual debe ser una de las herramientas esenciales en los servicios de urgencias hospitalarias.
+![adsad](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/26954453-9c88-438e-93a0-656e11893f0c)
+Tabla 1. Perú: Morbilidad registrada en consulta externa en MINSA y Gobiernos Regionales según grandes grupos de causas, 2019-2021 [5]
+
+Una gran parte de emergencias cardiovasculares que llevan a la muerte, tales como Fibrilación ventricular, Taquicardia Ventricular, entre otros pueden detectarse con ayuda de herramientas como la electrocardiografía, la cual debe ser una de las herramientas esenciales en los servicios de urgencias hospitalarias.
+
+
 ###  Formulación de problemática
 ¿Cómo podríamos diseñar un Open Hardware de bajo costo, que cumpla funciones básicas para el monitoreo y análisis de  enfermedades cardiovasculares?
 
