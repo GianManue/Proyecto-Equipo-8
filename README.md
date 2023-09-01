@@ -20,7 +20,8 @@ Una gran parte de emergencias cardiovasculares que llevan a la muerte, tales
 como Fibrilación ventricular, Taquicardia Ventricular, entre otros pueden
 detectarse con ayuda de herramientas como la electrocardiografía, la cual debe ser una de las herramientas esenciales en los servicios de urgencias hospitalarias.
 ###  Formulación de problemática
-¿Cómo podríamos diseñar e implementar un dispositivo de bajo costo, en centros de salud donde estos son escasos, que cumpla con funciones básicas para el análisis y detección de algunas enfermedades cardiovasculares?
+¿Cómo podríamos diseñar un Open Hardware de bajo costo, que cumpla funciones básicas para el monitoreo y análisis de  enfermedades cardiovasculares?
+
 ## Estado del Arte científico
 | Dispositivo  | Ventajas | Desventajas | Imagen |
 | ------------- | ------------- |------------- | ------------- |
