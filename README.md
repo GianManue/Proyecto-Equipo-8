@@ -46,5 +46,6 @@ detectarse con ayuda de herramientas como la electrocardiografía, la cual debe 
   [2] Global Health Metrics. Global, Regional, and National Age-Sex-Specific Mortality for 282 Causes of Death in 195 Countries and Territories, 1980-2017: A Systematic Analysis for the Global Burden of Disease Study 2017 GBD 2017 Causes of Death Collaborators*. 20 June 2019. 
   
   [3] MAYO CLINIC. “Enfermedad Cardíaca - Síntomas Y Causas - Mayo Clinic.” Www.mayoclinic.org, 25 Aug. 2022, www.mayoclinic.org/es/diseases-conditions/heart-disease/symptoms-causes/syc-20353118. Revisado el 30 Aug. 2023.
+
 [4] Chambergo-Michilot Diego, Velit-Rios Bruno, Cueva-Parra Angel. Prevalencia de enfermedades cardiovasculares en el Hospital Nacional Dos de Mayo de Perú. Rev. mex. angiol.  [revista en la Internet]. 2020  Sep [citado  2023  Sep  01] ;  48( 3 ): 84-89. Disponible en: http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2696-130X2020000300084&lng=es.  Epub 23-Ago-2021.  https://doi.org/10.24875/rma.20000012.
 
