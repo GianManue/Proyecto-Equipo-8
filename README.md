@@ -6,7 +6,7 @@ Bienvenidos al repositorio  del Grupo 8 del curso Fundamentos de Biodiseño
 * Ana Paula Cornejo Salazar
 * Daniel Alain Estela Rodríguez
 * Kusi Qoyllur Uñapillco Franco
-## Análisis del caso
+## Contexto
 Las enfermedades cardiovasculares son la principal causa de mortalidad en el
 mundo, siendo la causa de aproximadamente 31% de muertes durante el año 2017. [1]
 
