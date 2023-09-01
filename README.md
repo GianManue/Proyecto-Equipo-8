@@ -49,3 +49,6 @@ detectarse con ayuda de herramientas como la electrocardiografía, la cual debe 
 
 [4] Chambergo-Michilot Diego, Velit-Rios Bruno, Cueva-Parra Angel. Prevalencia de enfermedades cardiovasculares en el Hospital Nacional Dos de Mayo de Perú. Rev. mex. angiol.  [revista en la Internet]. 2020  Sep [citado  2023  Sep  01] ;  48( 3 ): 84-89. Disponible en: http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2696-130X2020000300084&lng=es.  Epub 23-Ago-2021.  https://doi.org/10.24875/rma.20000012.
 
+[5] ANÁLISIS DE SITUACIÓN DE SALUD DEL PERÚ 2021. Centro Nacional de Epidemiología, Prevención y Control de Enfermedades - Lima: Ministerio de Salud; 2023.: Biblioteca del Ministerio de Salud; 2023. [citado 2023 Sep 01]. Disponible en: https://www.dge.gob.pe/portalnuevo/publicaciones/analisis-de-situacion-de-salud-asis/#tab-content-5
+
+
