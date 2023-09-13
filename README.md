@@ -101,16 +101,6 @@ El producto será lo más parecido estéticamente a la mayoría de los holters y
 - Carcasa : Cobertura diseñada a escala y con gran detalle con el uso de varias herramientas que facilitarán el proceso.
 - Raspberry Pi: Ordenador de placa reducida de bajo costo 
 - Electrodos: colocados en las zonas de interés donde el Holter hará las mediciones
-
-
- 
-  ## Documentos importantes
-  * https://rpmesp.ins.gob.pe/index.php/rpmesp/article/view/4425/3329
-  * https://link.springer.com/article/10.1007/s40138-022-00248-x
-  * http://memoriascnib.mx/index.php/memorias/article/view/25
-  * https://www.dge.gob.pe/portalnuevo/publicaciones/analisis-de-situacion-de-salud-asis/#tab-content-5
-  * https://www.mayoclinic.org/es/diseases-conditions/heart-disease/symptoms-causes/syc-20353118
-  * https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001931 
   
   ## Bibliografía
 [1] Fernández, M. F. (2017). Manual de Enfermería. Enfermería en cardiología, 7, 123–136.
