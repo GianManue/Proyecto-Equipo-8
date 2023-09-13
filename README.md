@@ -27,7 +27,7 @@ Una gran parte de emergencias cardiovasculares que llevan a la muerte, tales com
 
 ## Estado del Arte científico
 
-| Productos  ||||
+| ||||
 | ------------- | ------------- |------------- | ------------- |
 | Dispositivo  | Ventajas | Desventajas | Imagen |
 |Electrocardiografo en reposo. (cardio express SL12A)| - Con batería recargable incorporada para permitir la portabilidad. - Cumple con los requisitos de ANSI/AAMI EC11. - Pantalla táctil de alta resolución para facilitar el uso y la interpretación. - Detección automática de arritmias. - Facilitar el análisis y la generación de informes  | - Costo elevado (dólares). - Adquisición mediante importación de países extranjeros.| ![70868-11596106](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/952446e7-f305-4367-ab6c-c97f463c1ebe)|
@@ -38,20 +38,20 @@ Una gran parte de emergencias cardiovasculares que llevan a la muerte, tales com
 |Open-source-hardware-heart-monitor| - Monitor Holter estándar de 4 electrodos. - Cómodo y ligero, incluso con las pilas incluidas. - Largo tiempo de ejecución.|- Se disminuyó el uso de 12 electrodos a 4. - Falta terminar y concretar las ideas del open Hardware. - Falta sensibilidad||
 
 ## Contexto Comercial
-### Holter Medilog® AR (Schiller)
-#### Funcionamiento:
-Gracias al sistema de doble batería, los pacientes pueden ser monitorizados durante más de 14 días sin que necesiten volver a la consulta para cambiar las baterías. La detección de fibrilación/aleteo auricular en cero segundos mediante el análisis de las ondas P reales es uno de los aspectos de ingeniería más destacados de esta solución de Holter.
-#### Especificaciones:
-*      * Peso: 125 g aprox. sin batería AAA
-       * Costo: $ 3.406,71 * Dimensiones: 83 x 60 x 18 mm
-       * Marca: Schiller
-       * Sistema de análisis rápido y preciso
-       * Exactitud de muestreo: 12 bits
-       * Resolución: 15,5 bit
-       * Velocidad de registro: 250 Hz
-       * Capacidad de la batería: >14 días
-       * Software: medilog®DARWIN2
+### Productos de mercado
+Se ha considerado 3 tipos de holter
+| Equipo | Descripción | Especificaciones |Imagen|
+| ------- | ----------- | ------ |------|
+| Holter Medilog® AR| Gracias al sistema de doble batería, los pacientes pueden ser monitorizados durante más de 14 días sin que necesiten volver a la consulta para cambiar las baterías. La detección de fibrilación/aleteo auricular en cero segundos mediante el análisis de las ondas P reales es uno de los aspectos de ingeniería más destacados de esta solución de Holter. | Peso: 125 g aprox. sin batería AAA ·   	Costo: $ 3.406,71·   	Dimensiones: 83 x 60 x 18 mm·   	Marca: Schiller·   	Sistema de análisis rápido y preciso·   	Exactitud de muestreo: 12 bits·   	Resolución: 15,5 bit·   	Velocidad de registro: 250 Hz ·Capacidad de la batería: >14 días · Software: medilog®DARWIN | ![images](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/753a72db-02ab-46a4-bfbd-27875839b219) |
+| Sistema EC-3H/ABP | Sistema combinado ECG Holter y ABPM de tres canales y divulgación completa sin PC ni impresora. El sistema Holter combinado EC-3H/ABP combina un Holter de ECG de 3 canales y un monitor de presión arterial ambulatorio. | ·   	Peso: ~ 250 g (incluidas las pilas) ·   	Costo: $ 22 521 ·   	Dimensiones: 125mm x 70mm x 33mm ·   	Marca: LABTECH ·   	Voltaje interno (máx.): 3,3 voltios ·   	Registro de lectura: mediante cable USB ·   	Fuente de alimentación: 2 pilas recargables AA de 1,2 V ·   	Periodo de grabación (horas): 8h – 336h | ![EC-3HABP_profil-500_2](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/4311d58c-b5e5-42af-b18f-0659a787317d)|
+| Sistema HOLTER ECG 24 horas Modelo CT-H5000 | Se compone de grabadora de ECG para registro continuo durante 24 horas de 12 derivaciones y software. La grabadora tiene un sistema de almacenamiento flash que aumenta su capacidad de memoria. La frecuencia de muestreo de 1000 muestras / seg ha mejorado la calidad de la forma de onda. El software del sistema se verifica por la AHA, y los datos MIT, garantizan su exactitud. | ·   	Peso: 105 gr. (sin batería) ·   	Costo: 1.580,00€ ·   	Dimensiones: 111mm x 60mm x 25mm ·   	Marca: Tecnomed 2000 ·   	Sistema de análisis rápido y preciso ·   	Exactitud de muestreo: 12 bits ·   	Pequeña grabadora ECG con pantalla a color OLED, que puede mostrar la forma de onda ECG en tiempo real. ·   	Interfaz USB ·   	Selección de la frecuencia de muestra, 200, 500, 1000 muestras / seg| ![CT-H50002](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/cb58f95d-836f-4932-b01b-e6bc3d47bce5)|
 
+### Patentes de utilidad
+| Nombre de la patente (Código) | Descripción  |Imagen|
+| ------- | ----------- | ------ |
+| LIVE HOLTER (WO2014206382) | Holter en vivo que permite el monitoreo local o distante de señales cardíacas detectadas, procesadas y mostradas, curvas de ECG, frecuencia cardíaca, arritmia y sus límites por parte de la persona monitoreada o del especialista o personal de enfermería. | 
+![km9gcWxR0k4PyrPfS3hef1gwIV0PCjljg8QmvtFvnRAiA-Eo5iTFW3ni0AnaVlHc](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/e512d3a7-957d-4057-a423-3a468d2ff7a8)|
+| HOLTER-TYPE MONITOR SYSTEM COMPRISING AN ANALYTE SENSOR (EP1148808)| Holter que consta de un dispositivo receptor de datos remoto, un sensor de análisis que genera una señal relacionada con una característica del usuario y un dispositivo de registro tipo Holter. El conector de sensor recibe las señales del sensor de analito, y el procesador las almacena para enviarlas al dispositivo receptor de datos remoto. Además, el dispositivo de registro puede transferir las señales almacenadas al dispositivo receptor de datos, que puede ser utilizado para diversas aplicaciones, como monitoreo médico, transmisión de datos a otros dispositivos o administración de medicamentos. | ![mj1ks3V5ZPfUGoYleQpAtnqyUc5HYUoGL_hPD8ZNYAR0QBty_aN1avBPeG_LTcct](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/f506a453-e595-4b9b-ad65-2c61f4ead810)|
 
 
  
