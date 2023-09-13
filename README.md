@@ -106,10 +106,6 @@ El producto será lo más parecido estéticamente a la mayoría de los holters y
 - Raspberry Pi: Ordenador de placa reducida de bajo costo 
 - Electrodos: colocados en las zonas de interés donde el Holter hará las mediciones
 
-### Materiales  
-Tras el estudio realizado en el estado del arte, podemos observar que el componente de un uso más extendido para este tipo de aplicaciones es el INA321 de Texas Instruments. Al leer detenidamente el datasheet del componente, descubrimos que ellos mismos nos indican como conformar el circuito para la creación de un amplificador de ECG de bajo coste, que es precisamente nuestro objetivo. Basándonos en el trabajo desarrollado por www.cooking-hacks.com comentado también en el estado del arte, elegiremos el amplificador operacional OPA4340, también fabricado por Texas Instruments. Tanto los condensadores como las resistencias han sido elegidos del tipo SMD(Surface Mount Device), llamados dispositivos de montaje superficial, por las ventajas ofrecidas por esta tecnología. Entre estas ventajas podemos encontrar: - Reducción del peso y dimensiones del circuito. 43 - Reducción de costes de fabricación. - Reducción de taladrados en el PCB. - Integración de en ambas caras del PCB. - Valores de componentes pasivos(precisamente nuestro caso) muchos más precisos. Se puede encontrar más información respecto a los componentes en sus respectivos datasheets, cuyo enlace se encuentra en las referencias.
-EEG portátil (holters) 
-
 # Propuesta de solución
 
  
