@@ -6,6 +6,10 @@ Bienvenidos al repositorio  del Grupo 8 del curso Fundamentos de Biodiseño
 * Ana Paula Cornejo Salazar
 * Daniel Alain Estela Rodríguez
 * Kusi Qoyllur Uñapillco Franco
+
+## Descripción de roles
+ 
+* 
 ## Contexto
 La educación técnica y superior en el Peru siempre ha destacado por ser muy teórica , rica en conocimientos; pero muy pobre en actividades prácticas. En el caso de la educación médica ( tanto universitaria como técnica ) muchas veces los estudiantes se ven afectados por la falta de inversión en equipos médicos de entrenamiento  que ellos podrían usar para poner en práctica todos sus conocimientos e ir familiarizándose con las tecnologías médicas . Considerando que la práctica en el campo médico es muy importante , hemos decidido tratar de solventar esta problemática con la creación  de un dispositivo Holter cuyo uso sea académico, es decir , de enseñanza.[a]
 
@@ -19,7 +23,7 @@ Una gran parte de emergencias cardiovasculares que llevan a la muerte, tales com
 
 
 ###  Formulación de problemática
-¿Cómo podríamos diseñar un Open Hardware de bajo costo, que cumpla funciones básicas para el monitoreo y análisis de  enfermedades cardiovasculares?
+¿Cómo podríamos diseñar un Open Hardware de bajo costo,  que cumpla funciones básicas para el monitoreo en base al funcionamiento de los ECGs portátiles?
 
 ## Estado del Arte científico
 
