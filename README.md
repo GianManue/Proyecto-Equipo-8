@@ -27,9 +27,9 @@ Una gran parte de emergencias cardiovasculares que llevan a la muerte, tales com
 
 ## Estado del Arte científico
 
-| Productos  ||||
-| ------------- | ------------- |------------- | ------------- |
+
 | Dispositivo  | Ventajas | Desventajas | Imagen |
+| ------------- | ------------- |------------- | ------------- |
 |Electrocardiografo en reposo. (cardio express SL12A)| - Con batería recargable incorporada para permitir la portabilidad. - Cumple con los requisitos de ANSI/AAMI EC11. - Pantalla táctil de alta resolución para facilitar el uso y la interpretación. - Detección automática de arritmias. - Facilitar el análisis y la generación de informes  | - Costo elevado (dólares). - Adquisición mediante importación de países extranjeros.| ![70868-11596106](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/952446e7-f305-4367-ab6c-c97f463c1ebe)|
 |App ECG (Apple Watch y relojes de este estilo en general)| - Monitoreo instantáneo (30 segundos) - Se puede exportar un PDF para tu médico. - Resultados interpretables solo incluyen la fibrilación auricular.|- La app ECG no puede detectar un infarto de miocardio. Si alguna vez experimentas dolor, presión o sensación de opresión en el pecho, o lo que crees que podría ser un infarto de miocardio, debes llamar de inmediato a los servicios de emergencia. - La app ECG no puede detectar trombos (coágulos de sangre) o accidentes cerebrovasculares. - La app ECG no puede detectar otros problemas relacionados con el corazón. Por ejemplo, hipertensión, insuficiencia cardiaca congestiva, un elevado nivel de colesterol u otros tipos de arritmia. - Las lecturas de la App ECG deben ser interpretadas por un personal de salud - Monitoreo instantáneo (30 segundos)|![Apple-Watch-Series7-Health-hero_inline jpg slideshow-xlarge_2x](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/05dc3c23-e404-4d30-bcfc-af1b60b6a7d3)|
 |Pulsoxímetro|- Recargables, algunos a pilas 2 AA y otros con una batería recargable. - Con una precisión considerable al ser un equipo portátil. - Además de la frecuencia cardiaca, mide otros parámetros como la saturación de oxígeno en la sangre. -No se requiere de personal médico calificado para operar este equipo. - Su costo es accesible por lo que es relativamente fácil adquirir uno. - Se puede conectar a tu smartphone para monitorear tus parámetro.|- Su medición depende de múltiples factores, por lo que en la mayoría de casos si el paciente usa esmalte de uñas o no está en reposo la medición de los resultados es bastante imprecisa. - Su modelo no está diseñado para usarse de manera continua, por lo que es imposible el monitoreo constante.|![51NWbCXm1wL _AC_UF1000,1000_QL80_](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/cfb6ac61-b066-4343-acf9-15b6113eab89)|
@@ -37,22 +37,13 @@ Una gran parte de emergencias cardiovasculares que llevan a la muerte, tales com
 |Grove - Ear-clip Heart Rate Sensor (open Hardware)| - Bajo consumo de energía. - Amplio rango de alimentación: DC 3~5V - Cómodo de usar. - Alta sensibilidad. - Cumple la directiva RoHS| - Necesita de una graduación extra para su respectivo análisis. - Una portabilidad deficiente por los cables y el cuidado del kit. |![Gheartsensor-600x600](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/d9ff8f2a-f6df-4f0d-8390-7fbde255284f)|
 |Open-source-hardware-heart-monitor| - Monitor Holter estándar de 4 electrodos. - Cómodo y ligero, incluso con las pilas incluidas. - Largo tiempo de ejecución.|- Se disminuyó el uso de 12 electrodos a 4. - Falta terminar y concretar las ideas del open Hardware. - Falta sensibilidad||
 
-## Contexto Comercial
-### Holter Medilog® AR (Schiller)
-#### Funcionamiento:
-Gracias al sistema de doble batería, los pacientes pueden ser monitorizados durante más de 14 días sin que necesiten volver a la consulta para cambiar las baterías. La detección de fibrilación/aleteo auricular en cero segundos mediante el análisis de las ondas P reales es uno de los aspectos de ingeniería más destacados de esta solución de Holter.
-#### Especificaciones:
-       * Peso: 125 g aprox. sin batería AAA
-       * Costo: $ 3.406,71 * Dimensiones: 83 x 60 x 18 mm
-       * Marca: Schiller
-       * Sistema de análisis rápido y preciso
-       * Exactitud de muestreo: 12 bits
-       * Resolución: 15,5 bit
-       * Velocidad de registro: 250 Hz
-       * Capacidad de la batería: >14 días
-       * Software: medilog®DARWIN2
-
-
+# Contexto Comercial
+## Productos de mercado
+| Equipos | Descripción | Especificaciones | Imagen |
+| ------------- | ------------- |------------- | ------------- |
+|Holter Medilog® AR (Schiller)|Gracias al sistema de doble batería, los pacientes pueden ser monitorizados durante más de 14 días sin que necesiten volver a la consulta para cambiar las baterías. La detección de fibrilación/aleteo auricular en cero segundos mediante el análisis de las ondas P reales es uno de los aspectos de ingeniería más destacados de esta solución de Holter.|·   	Peso: 125 g aprox. sin batería AAA ·   	Costo: $ 3.406,71 ·   	Dimensiones: 83 x 60 x 18 mm ·   	Marca: Schiller ·   	Sistema de análisis rápido y preciso ·   	Exactitud de muestreo: 12 bits ·   	Resolución: 15,5 bit ·   	Velocidad de registro: 250 Hz ·   	Capacidad de la batería: >14 días ·   	Software: medilog®DARWIN2|![images](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/7f980363-275b-455f-abe7-c710115356fd)|
+|Sistema EC-3H/ABP|Sistema combinado ECG Holter y ABPM de tres canales y divulgación completa sin PC ni impresora. El sistema Holter combinado EC-3H/ABP combina un Holter de ECG de 3 canales y un monitor de presión arterial ambulatorio.|·   	Peso: ~ 250 g (incluidas las pilas) ·   	Costo: $ 22 521 ·   	Dimensiones: 125mm x 70mm x 33mm ·   	Marca: LABTECH ·   	Voltaje interno (máx.): 3,3 voltios ·   	Registro de lectura: mediante cable USB ·   	Fuente de alimentación: 2 pilas recargables AA de 1,2 V ·   	Periodo de grabación (horas): 8h – 336h|![EC-3HABP_profil-500_2](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/fb33a4c5-a8cc-4722-a314-490e2befc246)|
+|Sistema HOLTER ECG 24 horas Modelo CT-H5000|Se compone de grabadora de ECG para registro continuo durante 24 horas de 12 derivaciones y software. La grabadora tiene un sistema de almacenamiento flash que aumenta su capacidad de memoria. La frecuencia de muestreo de 1000 muestras / seg ha mejorado la calidad de la forma de onda. El software del sistema se verifica por la AHA, y los datos MIT, garantizan su exactitud.|·   	Peso: 105 gr. (sin batería) ·   	Costo: 1.580,00€ ·   	Dimensiones: 111mm x 60mm x 25mm ·   	Marca: Tecnomed 2000 ·   	Sistema de análisis rápido y preciso ·   	Exactitud de muestreo: 12 bits ·   	Pequeña grabadora ECG con pantalla a color OLED, que puede mostrar la forma de onda ECG en tiempo real. ·   	Interfaz USB ·   	Selección de la frecuencia de muestra, 200, 500, 1000 muestras / seg|![CT-H50002](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/062609b0-aecf-4477-9f7e-dbe98dd2afb0)|
 
  
   ## Documentos importantes
