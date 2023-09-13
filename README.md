@@ -42,7 +42,7 @@ Una gran parte de emergencias cardiovasculares que llevan a la muerte, tales com
 #### Funcionamiento:
 Gracias al sistema de doble batería, los pacientes pueden ser monitorizados durante más de 14 días sin que necesiten volver a la consulta para cambiar las baterías. La detección de fibrilación/aleteo auricular en cero segundos mediante el análisis de las ondas P reales es uno de los aspectos de ingeniería más destacados de esta solución de Holter.
 #### Especificaciones:
-*      * Peso: 125 g aprox. sin batería AAA
+       * Peso: 125 g aprox. sin batería AAA
        * Costo: $ 3.406,71 * Dimensiones: 83 x 60 x 18 mm
        * Marca: Schiller
        * Sistema de análisis rápido y preciso
