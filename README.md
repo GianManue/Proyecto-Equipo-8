@@ -7,7 +7,7 @@ Bienvenidos al repositorio  del Grupo 8 del curso Fundamentos de Biodiseño
 * Daniel Alain Estela Rodríguez
 * Kusi Qoyllur Uñapillco Franco
 
-## Descripción de roles
+### Descripción de roles
  
 * 
 ## Contexto
@@ -23,7 +23,7 @@ Una gran parte de emergencias cardiovasculares que llevan a la muerte, tales com
 
 
 ###  Formulación de problemática
-¿Cómo podríamos diseñar un Open Hardware de bajo costo,  que cumpla funciones básicas para el monitoreo en base al funcionamiento de los ECGs portátiles?
+¿Cómo podríamos diseñar un Open Hardware de bajo costo,  que cumpla funciones básicas para el monitoreo de señales cardiácas en base al funcionamiento de los ECGs portátiles?
 
 ## Estado del Arte científico
 
