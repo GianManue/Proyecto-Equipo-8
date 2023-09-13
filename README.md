@@ -9,7 +9,14 @@ Bienvenidos al repositorio  del Grupo 8 del curso Fundamentos de Biodiseño
 
 ### Descripción de roles
  
-* 
+* Diego Alexander Nolasco Murillo (Coordinador general)
+* Gian Manuel Rojas Vergaray (Coordinador Programación)
+* Ana Paula Cornejo Salazar (Coordinadora de Impresión 3D)
+* Daniel Alain Estela Rodríguez (Coordinador de Electrónica)
+* Kusi Qoyllur Uñapillco Franco (Coordinadora de Diseño)
+
+
+  
 ## Contexto social
 El holter electrocardiográfico externo (ECG) es un dispositivo no invasivo que permite el registro continuo de la actividad eléctrica del corazón durante periodos largos de tiempo; no interfiere con las actividades diarias del paciente [1]. Asimismo, los ECG portables (holters) son dispositivos que han demostrado su utilidad para detectar arritmias de manera bastante eficaz en comparación con el método estándar de atención actual. Estos comprobaron su capacidad para mejorar la atención al paciente y reducir los costos de atención médica, mientras que dispositivos diferentes son destinados a utilizarse como una pantalla de lectura de señales a más grande escala [2]. 
 La educación técnica y superior en el Perú siempre se ha destacado por su enfoque teórico y la abundancia de conocimientos, pero suele carecer de actividades prácticas. En el ámbito de la educación médica, ya sea a nivel universitario o técnico, a menudo los estudiantes se ven afectados por la falta de inversión en equipos médicos de entrenamiento que podrían utilizar para aplicar sus conocimientos y familiarizarse con las tecnologías médicas [3]. 
