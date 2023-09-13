@@ -105,14 +105,23 @@ El producto será lo más parecido estéticamente a la mayoría de los holters y
   ## Bibliografía
 [1] Fernández, M. F. (2017). Manual de Enfermería. Enfermería en cardiología, 7, 123–136.
 https://enfermeriaencardiologia.com/wp-content/uploads/electro_07.pdf
+
 [2] Kamga, P., Mostafa, R., & Zafar, S. (2022). The use of wearable ECG devices in the clinical setting: A review. Current Emergency and Hospital Medicine Reports, 10(3), 67–72. https://doi.org/10.1007/s40138-022-00248-x
+
 [3] Defensoría del Pueblo: Falta de personal médico y equipos, así como déficit de infraestructura en hospitales de Trujillo ponen en riesgo calidad de atención de pacientes. (s. f.). Defensoria del Pueblo - Perú. https://www.defensoria.gob.pe/defensoria-del-pueblo-falta-de-personal-medico-y-equipos-asi-como-deficit-de-infraestructura-en-hospitales-de-trujillo-ponen-en-riesgo-calidad-de-atencion-de-pacientes/
+
 [4] Holter Medilog® AR [Internet] Disponible en: https://www.hemocare.pe/productos/holter
+
 [5] Sistema EC-3H/ABP [Internet] Disponible en: https://www.labtech.hu/en/product/holter-ecg-and-abp-systems/ec-3h-abp/
+
 [6] Sistema HOLTER ECG 24 horas Modelo CT-H5000 [Internet] Disponible en: https://tecnomed2000.com/producto/holter-ecg-basico-software-grabadora/ 
+
 [7] WO2014206382 - LIVE HOLTER [Internet] Disponible en: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2014206382&_cid=P12-LMGL1H-63447-1 
+
 [8] EP1148808 - HOLTER-TYPE MONITOR SYSTEM COMPRISING AN ANALYTE SENSOR [Internet] Disponible en: https://patentscope.wipo.int/search/en/detail.jsf?docId=EP13630973&_cid=P12-LMGL1H-63447-1 
+
 [9] WO1981000806 - AUTOMATIC HIGH SPEED HOLTER SCANNING SYSTEM Disponible en https://patentscope.wipo.int/search/en/detail.jsf?docId=WO1981000806&_cid=P10-LMH8GE-61674-2
+
 [10] Peralta, A. (2016). Prototipo de electrocardiógrafo portátil. 
 https://biblus.us.es/bibing/proyectos/abreproy/12343/fichero/Prototipo+de+electrocardi%C3%B3grafo+port%C3%A1til+-+copia.pdf 
 
