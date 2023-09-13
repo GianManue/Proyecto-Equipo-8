@@ -74,12 +74,12 @@ Una gran parte de emergencias cardiovasculares que llevan a la muerte, tales com
 
 
 # Lista de requerimientos
-## Requerimientos funcionales
+### Requerimientos funcionales
 Desarrollar un Open Hardware de código abierto diseñado específicamente como una herramienta educativa, con requisitos funcionales clave que aseguren su efectividad en el proceso de enseñanza y aprendizaje. Por ellos en los conceptos clave se precisara de los componentes básicos de un holter  los cuale son: una grabadora, un sistema de electrodos y un electro analizador.
 
 Se diseñará un Holter externo no apto para un monitoreo constante sino para un fin educativo, por ende; no se necesita una batería de extensa duración, además de la oportunidad de usar una unidad de memoria más simple, ya que no se requiere la necesidad de registrar en tiempo real una gran cantidad de datos, sin embargo si se puede agregar una unidad de memoria que después de la medición de las señales, bote los resultados
 
-## Requerimientos no funcionales
+### Requerimientos no funcionales
 El producto será lo más parecido estéticamente a la mayoría de los holters y tendrá su estructura básica. Adicionalmente, el material será de bajo costo para hacerlo más accesible económicamente.
 
 ## Canalización de requirimientos
