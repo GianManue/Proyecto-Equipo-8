@@ -57,12 +57,21 @@ Una gran parte de emergencias cardiovasculares que llevan a la muerte, tales com
 |Sistema EC-3H/ABP|Sistema combinado ECG Holter y ABPM de tres canales y divulgación completa sin PC ni impresora. El sistema Holter combinado EC-3H/ABP combina un Holter de ECG de 3 canales y un monitor de presión arterial ambulatorio.|·   	Peso: ~ 250 g (incluidas las pilas) ·   	Costo: $ 22 521 ·   	Dimensiones: 125mm x 70mm x 33mm ·   	Marca: LABTECH ·   	Voltaje interno (máx.): 3,3 voltios ·   	Registro de lectura: mediante cable USB ·   	Fuente de alimentación: 2 pilas recargables AA de 1,2 V ·   	Periodo de grabación (horas): 8h – 336h|![EC-3HABP_profil-500_2](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/fb33a4c5-a8cc-4722-a314-490e2befc246)|
 |Sistema HOLTER ECG 24 horas Modelo CT-H5000|Se compone de grabadora de ECG para registro continuo durante 24 horas de 12 derivaciones y software. La grabadora tiene un sistema de almacenamiento flash que aumenta su capacidad de memoria. La frecuencia de muestreo de 1000 muestras / seg ha mejorado la calidad de la forma de onda. El software del sistema se verifica por la AHA, y los datos MIT, garantizan su exactitud.|·   	Peso: 105 gr. (sin batería) ·   	Costo: 1.580,00€ ·   	Dimensiones: 111mm x 60mm x 25mm ·   	Marca: Tecnomed 2000 ·   	Sistema de análisis rápido y preciso ·   	Exactitud de muestreo: 12 bits ·   	Pequeña grabadora ECG con pantalla a color OLED, que puede mostrar la forma de onda ECG en tiempo real. ·   	Interfaz USB ·   	Selección de la frecuencia de muestra, 200, 500, 1000 muestras / seg|![CT-H50002](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/062609b0-aecf-4477-9f7e-dbe98dd2afb0)|
 
+## Patentes de utilidad
+
 | Nombre de la patente (Código) | Descripción | Imagen |
 | ------------- | ------------- |------------- |
 |LIVE HOLTER (WO2014206382)|Holter en vivo que permite el monitoreo local o distante de señales cardíacas detectadas, procesadas y mostradas, curvas de ECG, frecuencia cardíaca, arritmia y sus límites por parte de la persona monitoreada o del especialista o personal de enfermería.|![km9gcWxR0k4PyrPfS3hef1gwIV0PCjljg8QmvtFvnRAiA-Eo5iTFW3ni0AnaVlHc](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/54ffcad5-e647-466f-92e6-dea2e60a5527)|
 |HOLTER-TYPE MONITOR SYSTEM COMPRISING AN ANALYTE SENSOR (EP1148808 )|Holter que consta de un dispositivo receptor de datos remoto, un sensor de análisis que genera una señal relacionada con una característica del usuario y un dispositivo de registro tipo Holter. El conector de sensor recibe las señales del sensor de analito, y el procesador las almacena para enviarlas al dispositivo receptor de datos remoto. Además, el dispositivo de registro puede transferir las señales almacenadas al dispositivo receptor de datos, que puede ser utilizado para diversas aplicaciones, como monitoreo médico, transmisión de datos a otros dispositivos o administración de medicamentos.|![mj1ks3V5ZPfUGoYleQpAtnqyUc5HYUoGL_hPD8ZNYAR0QBty_aN1avBPeG_LTcct](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/8facbc53-4a92-47c3-8a54-a9b939644a43)|
 |AUTOMATIC HIGH SPEED HOLTER SCANNING SYSTEM (WO1981000806)|Un Holter automático de alta velocidad.El sistema de escaneo (10) opera en un modo no automático o en un modo automático para recibir señales de electrocardiograma que han sido pregrabadas en formatos diferentes que tienen diferentes parámetros conocidos, y para procesarlas de acuerdo con una entrada del operador. El procesador automático de arritmias de la presente invención detecta información cardíaca ectópica, almacena la información detectada en secuencia temporal y lee y muestra selectivamente la información ectópica almacenada en respuesta a la orden del operador. Además, el procesador automático de arritmias compara los complejos QRS en las señales de ECG recibidas con un complejo QRS normal deseado y actualiza continuamente el intervalo RR y el área del complejo QRS normal después de cada comparación del complejo QRS normal con los complejos QRS posteriores.|![HRz64Ju4MRjQLw8hC9hksXJlufZ4vE4eONXW7bc8pxEYK5tWq5dWmblB8nK5LCXE](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/33987ac5-1e2a-428a-a4dc-0d4d5d61592d)|
 
+## EEG Portátiles Open Hardware
+
+|Nombres|Caractéristicas|
+|------|--------|
+|Prototipo de electrocardiógrafo portátil |Prototipo de electrocardiógrafo portátil, con el diseño y fabricación de la PCB de adaptación y filtrado de la señal eléctrica proveniente del cuerpo humano hasta la preparación y programación de la placa de desarrollo Beaglebone Black Rev C. Falta hacer mejoras en la representación gráfica en tiempo real de la señal ECG en una pantalla LCD o mediante la instalación de un servidor web en la placa y su debida representación en un navegador [4].|
+|Grove - Ear-clip Heart Rate Sensor (open Hardware)|Prototipo de bajo consumo de energía. Tiene un amplio rango de alimentación: DC 3~5V - Ventajas: cómodo de usar, tiene alta sensibilidad Cumple la directiva RoHS. Desventajas: Necesita de una graduación extra para su respectivo análisis.Además la portabilidad deficiente por los cables y el cuidado del kit [4].|
+|Diseño y Construcción de un Electrocardiógrafo Portátil Recargable|Es necesario hacer diferentes etapas de amplificación y de filtrado para obtener la señal del ECG de manera más óptima teniendo en cuenta la interferencia eléctrica |
 
 
 # Lista de requerimientos
@@ -106,17 +115,11 @@ El producto será lo más parecido estéticamente a la mayoría de los holters y
   * https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001931 
   
   ## Bibliografía
-  [a] https://ems.sld.cu/index.php/ems/article/view/1413/768
-  https://www.defensoria.gob.pe/defensoria-del-pueblo-falta-de-personal-medico-y-equipos-asi-como-deficit-de-infraestructura-en-hospitales-de-trujillo-ponen-en-riesgo-calidad-de-atencion-de-pacientes/
-  
-  
- 
-  [2] Global Health Metrics. Global, Regional, and National Age-Sex-Specific Mortality for 282 Causes of Death in 195 Countries and Territories, 1980-2017: A Systematic Analysis for the Global Burden of Disease Study 2017 GBD 2017 Causes of Death Collaborators*. 20 June 2019. 
-  
-  [3] MAYO CLINIC. “Enfermedad Cardíaca - Síntomas Y Causas - Mayo Clinic.” Www.mayoclinic.org, 25 Aug. 2022, www.mayoclinic.org/es/diseases-conditions/heart-disease/symptoms-causes/syc-20353118. Revisado el 30 Aug. 2023.
+[1] Fernández, M. F. (2017). Manual de Enfermería. Enfermería en cardiología, 7, 123–136.
+https://enfermeriaencardiologia.com/wp-content/uploads/electro_07.pdf
+[2] Kamga, P., Mostafa, R., & Zafar, S. (2022). The use of wearable ECG devices in the clinical setting: A review. Current Emergency and Hospital Medicine Reports, 10(3), 67–72. https://doi.org/10.1007/s40138-022-00248-x
+[3] Defensoría del Pueblo: Falta de personal médico y equipos, así como déficit de infraestructura en hospitales de Trujillo ponen en riesgo calidad de atención de pacientes. (s. f.). Defensoria del Pueblo - Perú. https://www.defensoria.gob.pe/defensoria-del-pueblo-falta-de-personal-medico-y-equipos-asi-como-deficit-de-infraestructura-en-hospitales-de-trujillo-ponen-en-riesgo-calidad-de-atencion-de-pacientes/
+[4] Peralta, A. (2016). Prototipo de electrocardiógrafo portátil. https://biblus.us.es/bibing/proyectos/abreproy/12343/fichero/Prototipo+de+electrocardi%C3%B3grafo+port%C3%A1til+-+copia.pdf 
 
-[4] Chambergo-Michilot Diego, Velit-Rios Bruno, Cueva-Parra Angel. Prevalencia de enfermedades cardiovasculares en el Hospital Nacional Dos de Mayo de Perú. Rev. mex. angiol.  [revista en la Internet]. 2020  Sep [citado  2023  Sep  01] ;  48( 3 ): 84-89. Disponible en: http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2696-130X2020000300084&lng=es.  Epub 23-Ago-2021.  https://doi.org/10.24875/rma.20000012.
-
-[5] ANÁLISIS DE SITUACIÓN DE SALUD DEL PERÚ 2021. Centro Nacional de Epidemiología, Prevención y Control de Enfermedades - Lima: Ministerio de Salud; 2023.: Biblioteca del Ministerio de Salud; 2023. [citado 2023 Sep 01]. Disponible en: https://www.dge.gob.pe/portalnuevo/publicaciones/analisis-de-situacion-de-salud-asis/#tab-content-5
 
 
