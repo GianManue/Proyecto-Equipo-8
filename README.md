@@ -1,11 +1,5 @@
 # Biodiseño Equipo 8
 Bienvenidos al repositorio  del Grupo 8 del curso Fundamentos de Biodiseño
-### Intregrantes
-* Gian Manuel Rojas Vergaray
-* Diego Alexander Nolasco Murillo
-* Ana Paula Cornejo Salazar
-* Daniel Alain Estela Rodríguez
-* Kusi Qoyllur Uñapillco Franco
 
 ### Descripción de roles
  
