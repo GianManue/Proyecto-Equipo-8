@@ -56,6 +56,39 @@ Una gran parte de emergencias cardiovasculares que llevan a la muerte, tales com
 |HOLTER-TYPE MONITOR SYSTEM COMPRISING AN ANALYTE SENSOR (EP1148808 )|Holter que consta de un dispositivo receptor de datos remoto, un sensor de análisis que genera una señal relacionada con una característica del usuario y un dispositivo de registro tipo Holter. El conector de sensor recibe las señales del sensor de analito, y el procesador las almacena para enviarlas al dispositivo receptor de datos remoto. Además, el dispositivo de registro puede transferir las señales almacenadas al dispositivo receptor de datos, que puede ser utilizado para diversas aplicaciones, como monitoreo médico, transmisión de datos a otros dispositivos o administración de medicamentos.|![mj1ks3V5ZPfUGoYleQpAtnqyUc5HYUoGL_hPD8ZNYAR0QBty_aN1avBPeG_LTcct](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/8facbc53-4a92-47c3-8a54-a9b939644a43)|
 |AUTOMATIC HIGH SPEED HOLTER SCANNING SYSTEM (WO1981000806)|Un Holter automático de alta velocidad.El sistema de escaneo (10) opera en un modo no automático o en un modo automático para recibir señales de electrocardiograma que han sido pregrabadas en formatos diferentes que tienen diferentes parámetros conocidos, y para procesarlas de acuerdo con una entrada del operador. El procesador automático de arritmias de la presente invención detecta información cardíaca ectópica, almacena la información detectada en secuencia temporal y lee y muestra selectivamente la información ectópica almacenada en respuesta a la orden del operador. Además, el procesador automático de arritmias compara los complejos QRS en las señales de ECG recibidas con un complejo QRS normal deseado y actualiza continuamente el intervalo RR y el área del complejo QRS normal después de cada comparación del complejo QRS normal con los complejos QRS posteriores.|![HRz64Ju4MRjQLw8hC9hksXJlufZ4vE4eONXW7bc8pxEYK5tWq5dWmblB8nK5LCXE](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/33987ac5-1e2a-428a-a4dc-0d4d5d61592d)|
 
+
+
+# Lista de requerimientos
+## Requerimientos funcionales
+Desarrollar un Open Hardware de código abierto diseñado específicamente como una herramienta educativa, con requisitos funcionales clave que aseguren su efectividad en el proceso de enseñanza y aprendizaje. Por ellos en los conceptos clave se precisara de los componentes básicos de un holter  los cuale son: una grabadora, un sistema de electrodos y un electro analizador.
+
+Se diseñará un Holter externo no apto para un monitoreo constante sino para un fin educativo, por ende; no se necesita una batería de extensa duración, además de la oportunidad de usar una unidad de memoria más simple, ya que no se requiere la necesidad de registrar en tiempo real una gran cantidad de datos, sin embargo si se puede agregar una unidad de memoria que después de la medición de las señales, bote los resultados
+
+## Requerimientos no funcionales
+El producto será lo más parecido estéticamente a la mayoría de los holters y tendrá su estructura básica. Adicionalmente, el material será de bajo costo para hacerlo más accesible económicamente.
+
+## Canalización de requirimientos
+### Estrategias
+- Aumentar la producción de holters para uso educativo.
+- Simplificar la estructura del dispositivo sin quitarle su función principal y propósito.
+- Reducir el costo de la práctica de campo para los estudiantes de ciencias de la salud.
+- Entrenar a los estudiantes de ciencias de la salud en el uso de los holters para la vida profesional.
+
+### Conceptos
+- Manteniendo la estructura básica de la mayoría de holters pero reduciendo sus capacidades de manera que sirva para maniobrarlo correctamente.
+- La lectura de datos se realizará después de la lectura y no durante.
+
+### Módulos
+- Módulo de almacenamiento
+- Módulo de lector cardiaco
+- Módulo de traducción de información
+
+### Componentes 
+
+### Materiales  
+
+# Propuesta de solución
+
  
   ## Documentos importantes
   * https://rpmesp.ins.gob.pe/index.php/rpmesp/article/view/4425/3329
