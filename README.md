@@ -5,6 +5,7 @@ Bienvenidos al repositorio  del Grupo 8 del curso Fundamentos de Biodiseño
  
 * Diego Alexander Nolasco Murillo (Coordinador general)
 * Gian Manuel Rojas Vergaray (Coordinador de Electrónica)
+  -  Su rol consistirá en controlar, administrar, supervisar e instalar toda la parte electrónica del equipo, así como informar del uso de cada parte requerida e informar sobre cualquier falla. Trabajará directamente con el encargado de programación.
 * Ana Paula Cornejo Salazar (Coordinadora de Impresión 3D)
   - Se encargará de la impresión 3D del prototipo cuando su modelado final esté terminado. Asimismo, trabaja con la coordinadora de Diseño y Modelado 3D para llegar a un acuerdo en cuanto a las especificaciones que debe tener el prototipo para que su impresión 3D proceda sin problemas.
 * Daniel Alain Estela Rodríguez (Coordinador de Pogramación)
