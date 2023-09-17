@@ -4,9 +4,9 @@ Bienvenidos al repositorio  del Grupo 8 del curso Fundamentos de Biodiseño
 ### Descripción de roles
  
 * Diego Alexander Nolasco Murillo (Coordinador general)
-* Gian Manuel Rojas Vergaray (Coordinador Programación)
+* Gian Manuel Rojas Vergaray (Coordinador de Electrónica)
 * Ana Paula Cornejo Salazar (Coordinadora de Impresión 3D)
-* Daniel Alain Estela Rodríguez (Coordinador de Electrónica)
+* Daniel Alain Estela Rodríguez (Coordinador de Pogramación)
 * Kusi Qoyllur Uñapillco Franco (Coordinadora de Diseño)
 
 
