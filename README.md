@@ -8,6 +8,7 @@ Bienvenidos al repositorio  del Grupo 8 del curso Fundamentos de Biodiseño
 * Ana Paula Cornejo Salazar (Coordinadora de Impresión 3D)
 * Daniel Alain Estela Rodríguez (Coordinador de Pogramación)
 * Kusi Qoyllur Uñapillco Franco (Coordinadora de Diseño)
+  Se encargará de dirigir el diseño y modelado digital en 3D del prototipo. Para posteriormente proceder con la impresión 3D de la mejor opción de prototipado.
 
 ![casadas](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/9a62c2cf-400e-4a22-8d4b-dda583e8a55e)
 
