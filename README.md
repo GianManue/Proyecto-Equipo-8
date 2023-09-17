@@ -6,10 +6,10 @@ Bienvenidos al repositorio  del Grupo 8 del curso Fundamentos de Biodiseño
 * Diego Alexander Nolasco Murillo (Coordinador general)
 * Gian Manuel Rojas Vergaray (Coordinador de Electrónica)
 * Ana Paula Cornejo Salazar (Coordinadora de Impresión 3D)
+  - Encargada de la impresión 3D del prototipo cuando su modelado final esté terminado. Asimismo, trabaja con la coordinadora de Diseño y Modelado 3D para llegar a un acuerdo en cuanto a las especificaciones que debe tener el prototipo para que su impresión 3D proceda sin problemas.
 * Daniel Alain Estela Rodríguez (Coordinador de Pogramación)
 * Kusi Qoyllur Uñapillco Franco (Coordinadora de Diseño)
-
-  Se encargará de dirigir el diseño y modelado digital en 3D del prototipo. Para posteriormente proceder con la impresión 3D de la mejor opción de prototipado.
+   - Encargada de dirigir el diseño y modelado digital en 3D del prototipo. Para posteriormente proceder con la impresión 3D de la mejor opción de prototipado.
 
 ![casadas](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/9a62c2cf-400e-4a22-8d4b-dda583e8a55e)
 
