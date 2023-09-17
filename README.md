@@ -9,6 +9,7 @@ Bienvenidos al repositorio  del Grupo 8 del curso Fundamentos de Biodiseño
 * Daniel Alain Estela Rodríguez (Coordinador de Pogramación)
 * Kusi Qoyllur Uñapillco Franco (Coordinadora de Diseño)
 
+![casadas](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/9a62c2cf-400e-4a22-8d4b-dda583e8a55e)
 
   
 ## Contexto social
