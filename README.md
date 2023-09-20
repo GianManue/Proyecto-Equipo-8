@@ -81,9 +81,12 @@ Para solucionar la problemática planteada previamente, se propone diseñar un d
 
 # Lista de requerimientos
 ### Requerimientos funcionales
-Desarrollar un Open Hardware de código abierto diseñado específicamente como una herramienta educativa, con requisitos funcionales clave que aseguren su efectividad en el proceso de enseñanza y aprendizaje. Por ellos en los conceptos clave se precisara de los componentes básicos de un holter  los cuale son: una grabadora, un sistema de electrodos y un electro analizador.
+Desarrollar un Open Hardware de código abierto diseñado específicamente como una herramienta educativa, con requisitos funcionales clave que aseguren su efectividad en el proceso de enseñanza y aprendizaje. 
 
-Se diseñará un Holter externo no apto para un monitoreo constante sino para un fin educativo, por ende; no se necesita una batería de extensa duración, además de la oportunidad de usar una unidad de memoria más simple, ya que no se requiere la necesidad de registrar en tiempo real una gran cantidad de datos, sin embargo si se puede agregar una unidad de memoria que después de la medición de las señales, bote los resultados
+Evaluar: El prototipo evaluará las actividades eléctricas cardiacas  durante un período prolongado de tiempo.
+Procesar la información:   A partir del sensado con los electrodos se espera, guardar la información el el almacenamiento de Arduino UNO. Para luego ser representada, ya sea numéricamente o por gráficas.
+
+Graficar: Una vez terminado el monitoreo, se mostrará una gráfica del ECG.
 
 ### Requerimientos no funcionales
 El producto será lo más parecido estéticamente a la mayoría de los holters y tendrá su estructura básica. Adicionalmente, el material será de bajo costo para hacerlo más accesible económicamente.
