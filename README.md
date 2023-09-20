@@ -112,7 +112,19 @@ El producto será lo más parecido estéticamente a la mayoría de los holters y
 |Alimentación|Presenta puestos USB que serán usados para recargar el dispositivo cuando este lo requiera  (alimentador AD a DC o una batería ) |![81S7-CK+AlL _AC_UF1000,1000_QL80_](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/99ab2798-3f6a-4aba-b00e-7070bef419eb)|
 |Carcasa|Cobertura diseñada a escala y con gran detalle con el uso de varias herramientas que facilitarán el proceso.|![68095-6663521](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/18998faf-a882-4684-9a86-b5d4c3bf07e9)|
 |Raspberry Pi|Ordenador de placa reducida de bajo costo |![Raspberry_Pi_4_Model_B_-_Side](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/eff871b6-ed65-4228-8123-3267d1ffc5bf)|
-  
+
+
+## Caja Negra
+![Add a little bit of body text](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/4cd55b12-d7da-4d64-9f58-d3d70e90a5d8)
+
+## Esquema de funciones
+![Add a little bit of body text (1)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/8cf9a6f1-55f9-4684-9cf4-8be73305c9e3)
+![Add a little bit of body text (2)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/f8228a62-852b-4e31-ab04-b5be4b80b044)
+
+## Matriz morfológica
+
+## Tabla de valoraciones
+
   ## Bibliografía
 [1] Fernández, M. F. (2017). Manual de Enfermería. Enfermería en cardiología, 7, 123–136.
 https://enfermeriaencardiologia.com/wp-content/uploads/electro_07.pdf
