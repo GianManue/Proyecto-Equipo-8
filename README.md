@@ -63,7 +63,7 @@ Una gran parte de emergencias cardiovasculares que llevan a la muerte, tales com
 
 ## EEG Portátiles Open Hardware
 
-|Nombres|Caractéristicas|
+|Nombres|Características|
 |------|--------|
 |Prototipo de electrocardiógrafo portátil |Prototipo de electrocardiógrafo portátil, con el diseño y fabricación de la PCB de adaptación y filtrado de la señal eléctrica proveniente del cuerpo humano hasta la preparación y programación de la placa de desarrollo Beaglebone Black Rev C. Falta hacer mejoras en la representación gráfica en tiempo real de la señal ECG en una pantalla LCD o mediante la instalación de un servidor web en la placa y su debida representación en un navegador [10].|
 |Grove - Ear-clip Heart Rate Sensor (open Hardware)|Prototipo de bajo consumo de energía. Tiene un amplio rango de alimentación: DC 3~5V - Ventajas: cómodo de usar, tiene alta sensibilidad Cumple la directiva RoHS. Desventajas: Necesita de una graduación extra para su respectivo análisis.Además la portabilidad deficiente por los cables y el cuidado del kit [10].|
