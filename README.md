@@ -20,7 +20,11 @@ Bienvenidos al repositorio  del Grupo 8 del curso Fundamentos de Biodiseño
 ## Contexto social
 
 El holter electrocardiográfico externo (ECG) es un dispositivo no invasivo que permite el registro continuo de la actividad eléctrica del corazón durante periodos largos de tiempo; no interfiere con las actividades diarias del paciente [1]. Asimismo, los ECG portables (holters) son dispositivos que han demostrado su utilidad para detectar arritmias de manera bastante eficaz en comparación con el método estándar de atención actual. Estos comprobaron su capacidad para mejorar la atención al paciente y reducir los costos de atención médica, mientras que dispositivos diferentes son destinados a utilizarse como una pantalla de lectura de señales a más grande escala [2]. 
- 
+
+La interpretación del ECG es una habilidad cognitiva que requiere mucho tiempo y esfuerzo para dominarla [ 3 ]. Las interpretaciones inapropiadas, a su vez, aumentan los costos de atención médica y pueden retrasar el proceso de admisión, imponiendo una carga desagradable tanto a los hospitales como a los pacientes [4]
+
+Según el estudio realizado por Dimishkovska(2023):“las enfermeras capacitadas en ECG pueden participar activamente en la interpretación de la monitorización Holter de ECG, lo que reduce el tiempo para obtener los resultados a menos de 24 horas y permite un diagnóstico y tratamiento rápidos por parte de un cardiólogo/electrofisiólogo.”
+
 De esta manera, se evidencia la importancia de la utilización de Holters a corto y largo plazo debido a los beneficios que este trae, como la reducción del costo de atención médica, más precisión a la hora de presentar resultados del monitoreo ya que es constante, y su practicidad. Además, se evidenció la falta de actividades prácticas en el ámbito de la educación médica superior universitaria y técnica. Por lo tanto, la necesidad de contar con profesionales de salud con experiencia en el uso de estos dispositivos es urgente.
 
 ## Problemática
