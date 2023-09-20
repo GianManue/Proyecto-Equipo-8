@@ -125,7 +125,7 @@ El producto será lo más parecido estéticamente a la mayoría de los holters y
 ![Add a little bit of body text (3)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/325d6983-2864-4917-acd4-56c3a00175f4)
 
 ## Tabla de valoraciones
-
+![cd87cb4c-9e1d-431d-8047-172f9eb1d52f](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/f09cd573-05b6-49d4-a26b-5aaf3677b69a)
   ## Bibliografía
 [1] Fernández, M. F. (2017). Manual de Enfermería. Enfermería en cardiología, 7, 123–136.
 https://enfermeriaencardiologia.com/wp-content/uploads/electro_07.pdf
