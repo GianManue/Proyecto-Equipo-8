@@ -100,12 +100,13 @@ El producto será lo más parecido estéticamente a la mayoría de los holters y
 - Módulo de traducción de información
 
 ### Componentes 
-- Arduino: Nos ayuda mucho su principal propiedad “open source “, lo que nos permite personalizarlo a prácticamente cualquier uso 
-- Electrodos para ECG: Electrodos genericos y descartable, suficientes para suplir la necesidades  
-- Alimentación: presenta puestos USB que serán usados para recargar el dispositivo cuando este lo requiera  (alimentador AD a DC o una batería ) 
-- Carcasa : Cobertura diseñada a escala y con gran detalle con el uso de varias herramientas que facilitarán el proceso.
-- Raspberry Pi: Ordenador de placa reducida de bajo costo 
-- Electrodos: colocados en las zonas de interés donde el Holter hará las mediciones
+| Componentes | Descripción | Imagen |
+| ------------- | ------------- |---------|
+|Arduino|Nos ayuda mucho su principal propiedad “open source “, lo que nos permite personalizarlo a prácticamente cualquier uso|![500_333](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/9fbe6cd1-57a6-4a47-827e-8e3f3e2bfed0)|
+|Electrodos para ECG|Electrodos genericos y descartable, suficientes para suplir la necesidades|![IMG_0314-1000x1000](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/ba69c999-892a-4b00-91a9-031ec36e91b7)|
+|Alimentación|Presenta puestos USB que serán usados para recargar el dispositivo cuando este lo requiera  (alimentador AD a DC o una batería ) |![81S7-CK+AlL _AC_UF1000,1000_QL80_](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/99ab2798-3f6a-4aba-b00e-7070bef419eb)|
+|Carcasa|Cobertura diseñada a escala y con gran detalle con el uso de varias herramientas que facilitarán el proceso.|![68095-6663521](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/18998faf-a882-4684-9a86-b5d4c3bf07e9)|
+|Raspberry Pi|Ordenador de placa reducida de bajo costo |![Raspberry_Pi_4_Model_B_-_Side](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/eff871b6-ed65-4228-8123-3267d1ffc5bf)|
   
   ## Bibliografía
 [1] Fernández, M. F. (2017). Manual de Enfermería. Enfermería en cardiología, 7, 123–136.
