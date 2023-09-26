@@ -118,17 +118,21 @@ El producto será lo más parecido estéticamente a la mayoría de los holters y
 
 
 ## Caja Negra
-![Add a little bit of body text](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/4cd55b12-d7da-4d64-9f58-d3d70e90a5d8)
+![Add a little bit of body text](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/977b5cf1-be0a-4774-87ae-9f858696c4bd)
 
 ## Esquema de funciones
-![Add a little bit of body text (1)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/8cf9a6f1-55f9-4684-9cf4-8be73305c9e3)
-![Add a little bit of body text (2)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/f8228a62-852b-4e31-ab04-b5be4b80b044)
+![Add a little bit of body text (1)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/46fcd79c-a827-4c29-9dc7-446483b3454f)
+![Add a little bit of body text (2)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/c5c16ab4-11ed-4ee7-b52a-cb15343e3d34)
 
 ## Matriz morfológica
-![Add a little bit of body text (3)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/325d6983-2864-4917-acd4-56c3a00175f4)
+![Add a little bit of body text (3)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/71a11aca-1b88-47e3-a394-1b95eb808a50)
 
 ## Tabla de valoraciones
-![cd87cb4c-9e1d-431d-8047-172f9eb1d52f](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/f09cd573-05b6-49d4-a26b-5aaf3677b69a)
+![WhatsApp Image 2023-09-24 at 00 18 56](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/59597d74-0a91-4a93-a913-4499bf55380f)
+![Add a little bit of body text (4)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/f108ccc2-cdf7-4df7-babe-46d82eed5968)
+
+### Conclusiones
+En conclusión, después de haber hecho una correcta valoración de los conceptos de solución, la propuesta 3 resulto ganadora puesto que presentó un mayor valoración.
   ## Bibliografía
 [1] Fernández, M. F. (2017). Manual de Enfermería. Enfermería en cardiología, 7, 123–136.
 https://enfermeriaencardiologia.com/wp-content/uploads/electro_07.pdf
