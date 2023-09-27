@@ -131,9 +131,9 @@ El producto será lo más parecido estéticamente a la mayoría de los holters y
 ![Add a little bit of body text (4)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/f108ccc2-cdf7-4df7-babe-46d82eed5968)
 
 ## Bocetos
-![Add a little bit of body text (6)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/4e50bbff-e225-4eaa-b9e2-9a6a2db7d251)
-![Add a little bit of body text (7)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/c1843879-6c5b-4951-a972-b4f3ea9f61c7)
-
+![Add a little bit of body text (8)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/0f38976d-9797-42ca-9842-5f591d65321b)
+![Add a little bit of body text (9)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/a4f8d476-0db1-4d17-962b-3d158d2ae293)
+![Add a little bit of body text (10)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/c3ecd832-bac0-4132-bd05-728680cea876)
 
 
 ### Conclusiones
