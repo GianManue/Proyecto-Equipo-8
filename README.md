@@ -28,8 +28,7 @@ Según el estudio realizado por Dimishkovska(2023):“las enfermeras capacitadas
 De esta manera, se evidencia la importancia de la utilización de Holters a corto y largo plazo debido a los beneficios que este trae, como la reducción del costo de atención médica, más precisión a la hora de presentar resultados del monitoreo ya que es constante, y su practicidad. Además, se evidenció la falta de actividades prácticas en el ámbito de la educación médica superior universitaria y técnica. Por lo tanto, la necesidad de contar con profesionales de salud con experiencia en el uso de estos dispositivos es urgente.
 
 ## Problemática
-La educación técnica y superior en el Perú siempre se ha destacado por su enfoque teórico y la abundancia de conocimientos, pero suele carecer de actividades prácticas. En el ámbito de la educación médica, ya sea a nivel universitario o técnico, a menudo los estudiantes se ven afectados por la falta de inversión en equipos médicos de entrenamiento que podrían utilizar para aplicar sus conocimientos y familiarizarse con las tecnologías médicas [3]. Dado que la práctica en el campo médico es crucial, hemos decidido abordar esta problemática mediante la creación de un dispositivo Holter diseñado específicamente para fines académicos, es decir, con fines educativos.
-
+La educación técnica y superior en el Perú siempre se ha destacado por su enfoque teórico y la abundancia de conocimientos, pero suele carecer de actividades prácticas. En el ámbito de la educación médica, ya sea a nivel universitario o técnico, a menudo los estudiantes se ven afectados por la falta de inversión en equipos médicos de entrenamiento que podrían utilizar para aplicar sus conocimientos y familiarizarse con las tecnologías médicas [3]. Dado que la práctica en el campo médico es crucial, hemos decidido abordar esta problemática mediante la creación de un dispositivo Holter diseñado específicamente para fines académicos, es decir, con fines educativos. Los fines educativos incluyen la enseñanza de la posición de los electrodos, la cuál es importante puesto que la lectura varia de acuerdo a la posición de los electrodos, la cual varia de acuerdo a las características físicas del paciente (sexo, altura , frecuencia cardiaca medica,etc) [11].
 ### Hospital Nacional Dos de Mayo de Perú
 Se realizó un estudio observacional descriptivo en un hospital peruano de tercer nivel (Hospital Nacional Dos de Mayo, Lima, Perú). Se reportó que a partir de 446 pacientes que ingresaron en el servicio. Las cardiopatías más frecuentes fueron la insuficiencia cardiaca (51,57%), las cardiopatías congénitas (23,99%), la fibrilación auricular (17,49%) y el infarto agudo de miocardio (14,57%)[4].
 
@@ -131,6 +130,12 @@ El producto será lo más parecido estéticamente a la mayoría de los holters y
 ![WhatsApp Image 2023-09-24 at 00 18 56](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/59597d74-0a91-4a93-a913-4499bf55380f)
 ![Add a little bit of body text (4)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/f108ccc2-cdf7-4df7-babe-46d82eed5968)
 
+## Bocetos
+![Add a little bit of body text (6)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/4e50bbff-e225-4eaa-b9e2-9a6a2db7d251)
+![Add a little bit of body text (7)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/c1843879-6c5b-4951-a972-b4f3ea9f61c7)
+
+
+
 ### Conclusiones
 En conclusión, después de haber hecho una correcta valoración de los conceptos de solución, la propuesta 3 resulto ganadora puesto que presentó un mayor valoración.
   ## Bibliografía
@@ -154,6 +159,8 @@ https://enfermeriaencardiologia.com/wp-content/uploads/electro_07.pdf
 [9] CN101911083 - SYSTEM, METHOD AND DEVICE FOR PREDICTING SUDDEN CARDIAC DEATH RISK Disponible en https://patentscope.wipo.int/search/en/detail.jsf?docId=CN84099023&_cid=P21-LN0N15-97607-3
 
 [10] Peralta, A. (2016). Prototipo de electrocardiógrafo portátil. 
+
+[11] Nasirpouri, F. (2016). Fundamentals and Principles of Electrode-Position. En Springer series in surface sciences. https://doi.org/10.1007/978-3-319-44920-3_3
 https://biblus.us.es/bibing/proyectos/abreproy/12343/fichero/Prototipo+de+electrocardi%C3%B3grafo+port%C3%A1til+-+copia.pdf 
 
 
