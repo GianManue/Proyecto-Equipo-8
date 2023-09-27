@@ -135,6 +135,10 @@ El producto será lo más parecido estéticamente a la mayoría de los holters y
 ![Add a little bit of body text (9)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/a4f8d476-0db1-4d17-962b-3d158d2ae293)
 ![Add a little bit of body text (10)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/c3ecd832-bac0-4132-bd05-728680cea876)
 
+## Tabla de valoración técnica y económica
+![WhatsApp Image 2023-09-26 at 23 54 29](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/d139114f-05a4-4cce-b743-a535d0de0076)
+![6b90dab0-24c4-4c82-bf05-3319ba970d6c](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/a8d1dfc6-517c-415d-8cf0-eec4235c78ee)
+
 
 ### Conclusiones
 En conclusión, después de haber hecho una correcta valoración de los conceptos de solución, la propuesta 3 resulto ganadora puesto que presentó un mayor valoración.
