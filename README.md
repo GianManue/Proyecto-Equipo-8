@@ -3,8 +3,6 @@ Bienvenidos al repositorio  del Grupo 8 del curso Fundamentos de Biodiseño
 
 ### Descripción de roles
  
-* Diego Alexander Nolasco Murillo (Coordinador general)
-  - Encargado de supervisar la estructura del equipo con el fin de garantizar una coordinación eficiente entre sus miembros y lograr la ejecución exitosa del proyecto.
 * Gian Manuel Rojas Vergaray (Coordinador de Electrónica)
   -  Su rol consistirá en controlar, administrar, supervisar e instalar toda la parte electrónica del equipo, así como informar del uso de cada parte requerida e informar sobre cualquier falla. Trabajará directamente con el encargado de programación.
 * Daniel Alain Estela Rodríguez (Coordinador de Pogramación)
