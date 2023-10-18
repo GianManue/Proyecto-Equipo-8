@@ -19,14 +19,26 @@ Prototipo ECG-PORTÁTIL (open hardware) para aplicaciones de educación STEM
 
 ## Contexto social
 
-### olam
+### Importancia de la educación STEM
 
-Importancia de la educación STEM
 En la última década, la educación STEM ha sido uno de los puntos de enfoque en los que se ha estado trabajando. Este es una especie de aprendizaje basado en proyectos sobre la participación de los estudiantes.  Utiliza el proceso de investigación científica y diseño de ingeniería. Es un aprendizaje interdisciplinario activo.
 
 La educación STEM es esencial para preparar a las generaciones futuras para las demandas del mercado laboral en constante evolución, ya que muchas de las profesiones y carreras del futuro requerirán competencias en estas áreas. También desempeña un papel crucial en el avance de la ciencia y la tecnología, así como en la resolución de los desafíos globales que enfrenta la humanidad.
 
 En el sector educativo, las instituciones de educación superior son responsables de formar profesionales altamente calificados para la sociedad. “Los países deberían buscar estimular la innovación e impulsar la educación STEM por tres razones principales: (i) la innovación contribuye a un mejor nivel de vida, impulsa la competitividad y satisface las demandas de la sociedad.”(Atkinson, 2010) [1].
+
+### Contexto a nivel mundial
+
+Por ejemplo en China; El “Plan de Acción de Educación STEM de China 2029” planea construir un sistema de capacitación STEM para cultivar mejor talentos innovadores para el desarrollo nacional [2]
+
+### Contexto a nivel nacional
+
+Según el “Plan Bicentenario: Perú hacia 2021” (Plan Bicentenario. El Perú Hacia el 2021). La educación STEM es la base para que el Perú forme parte de la Organización para la Cooperación y el Desarrollo Económico (OCDE). Sin embargo, los investigadores sugieren que las carreras STEM están disminuyendo en comparación con años anteriores. Por ejemplo, en 1972 la tasa de estudiantes de ingeniería era del 15,7%, mientras que en 2007 la tasa promedio era del 10,8%.3[]
+
+Además de las diferentes barreras que se han presentado en los últimos años sobre el desarrollo académico y profesional de los universitarios. Los hallazgos de Ramos (2019) muestran el papel de los factores contextuales y el vínculo con los comportamientos relacionados con la carrera que pueden afectar el progreso de los estudiantes universitarios y pueden crear implicaciones académicas y económicas en las universidades.[3]
+
+Lo cual viene a implicar directamente la formación y método de enseñanza que se presenta en las diferentes universidades. Cabe destacar que ello viene a partir  de la infraestructura y/o hasta materiales académicos. Desafortunadamente, las herramientas que permiten la investigación impulsada por los estudiantes tienden a tener un precio mucho más alto que el laboratorio en una caja fuertemente dirigida, lo que lleva a un abismo despectivo de igualdad entre las escuelas que tienen fondos adecuados y las que no.
+
 
 ## Problemática
 La educación técnica y superior en el Perú siempre se ha destacado por su enfoque teórico y la abundancia de conocimientos, pero suele carecer de actividades prácticas. En el ámbito de la educación médica, ya sea a nivel universitario o técnico, a menudo los estudiantes se ven afectados por la falta de inversión en equipos médicos de entrenamiento que podrían utilizar para aplicar sus conocimientos y familiarizarse con las tecnologías médicas [3]. Dado que la práctica en el campo médico es crucial, hemos decidido abordar esta problemática mediante la creación de un dispositivo Holter diseñado específicamente para fines académicos, es decir, con fines educativos. Los fines educativos incluyen la enseñanza de la posición de los electrodos, la cuál es importante puesto que la lectura varia de acuerdo a la posición de los electrodos, la cual varia de acuerdo a las características físicas del paciente (sexo, altura , frecuencia cardiaca medica,etc) [11].
