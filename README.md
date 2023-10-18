@@ -39,8 +39,30 @@ Además de las diferentes barreras que se han presentado en los últimos años s
 
 Lo cual viene a implicar directamente la formación y método de enseñanza que se presenta en las diferentes universidades. Cabe destacar que ello viene a partir  de la infraestructura y/o hasta materiales académicos. Desafortunadamente, las herramientas que permiten la investigación impulsada por los estudiantes tienden a tener un precio mucho más alto que el laboratorio en una caja fuertemente dirigida, lo que lleva a un abismo despectivo de igualdad entre las escuelas que tienen fondos adecuados y las que no.
 
+### Open hardware y educación STEM
+
+En el siglo XXI se espera lograr diferentes de objetivos como "Educación integral para todos", "democratización del conocimiento" y el objetivo de desarrollo sostenible 2030, que "garantiza una educación de calidad inclusiva y equitativa y promueve oportunidades de aprendizaje permanente para todos" [3]
+
+El creciente número de estudiantes en todo el mundo, el sistema educativo convencional y su acceso son inadecuados para alcanzar el objetivo educativo 2030 para el desarrollo sostenible. Por tanto, la demanda del tiempo es impulsar un sistema educativo con todas las posibilidades de innovación abierta. La facilidad de disponibilidad de software y hardware y la llegada de la tecnología hacen que el sistema educativo sea factible para llevar a cabo la educación superior en un contexto más eficaz en líneas de crecimiento e innovación.[4]
+
+Entonces, un sistema educativo sin barreras físicas mediante el uso de diferentes tipos de recursos abiertos y gratuitos; llegaría a ser una manera de promover eficazmente las actividades en la educación STEM. 
+
+El desarrollo de un prototipo como material didáctico STEM para el aprendizaje orientado a problemas ABP; puede ayudar a los estudiantes a desarrollar habilidades de innovación y resolución de problemas. Mediante este proceso práctico, los estudiantes tendrán una formación integral en el cual sepan reaccionar y desenvolverse  un mundo de auge tecnológico. Cabe mencionar que estudios anteriores demostraron que al utilizar microcontroladores Arduino rentables con varios kits mecánicos, los estudiantes pueden cultivar una buena alfabetización en innovación en la enseñanza STEM [5]
+
+### Influencia de la educación STEM en el futuro de los estudiantes
+
+Los datos recopilados del programa Harvard Medical School's MEDscience, estudio realizado con 150 estudiantes de escuela secundaria utilizando un plan de estudios educativo basado en simulación que incorpora el aprendizaje naturalista en los cursos formales de ciencias en relación con STEM y actitudes en materia de atención médica y elecciones profesionales, indicaron mediante una encuesta de 5 preguntas con valorizaciones del 1 al 5 que después de tener un acercamiento más tangible en el programa MEDscience, sus intereses y preferencias para el futuro cambiaron. La muestra precisó que su disposición a una carrera relacionada con las ciencias y el área médica antes de tomar el programa era solo del 3.82 en promedio, mientras que luego del programa este interés se incrementó, siendo su respuesta del 4.43 aproximadamente [7].
+
+### Relación entre problemas cardiacos y la necesidad de normalizar la familiarización con nuevas tecnologías
+
+La mortalidad por enfermedades cardiovasculares muestra una tendencia decreciente en los países desarrollados, mientras que en los países emergentes esta aumenta a medida que disminuyen las afecciones por desnutrición y enfermedades infecciosas [8].
+
+En el área de la atención médica en particular, la innovación en dispositivos médicos han probado ser recursos eficientes para curar, detectar y tratar enfermedades, haciendo un mejor uso de recursos escasos. Asimismo, los profesionales de la salud y profesionales en formación se han visto obligados a adquirir nuevas habilidades para hacer uso correcto de estas tecnologías con el objetivo de adaptarse al avance tecnológico que contribuye al aumento de calidad de vida en la población [9].
+
 ## Problemática
-La educación técnica y superior en el Perú siempre se ha destacado por su enfoque teórico y la abundancia de conocimientos, pero suele carecer de actividades prácticas. En el ámbito de la educación médica, ya sea a nivel universitario o técnico, a menudo los estudiantes se ven afectados por la falta de inversión en equipos médicos de entrenamiento que podrían utilizar para aplicar sus conocimientos y familiarizarse con las tecnologías médicas [3]. Dado que la práctica en el campo médico es crucial, hemos decidido abordar esta problemática mediante la creación de un dispositivo Holter diseñado específicamente para fines académicos, es decir, con fines educativos. Los fines educativos incluyen la enseñanza de la posición de los electrodos, la cuál es importante puesto que la lectura varia de acuerdo a la posición de los electrodos, la cual varia de acuerdo a las características físicas del paciente (sexo, altura , frecuencia cardiaca medica,etc) [11].
+
+¿Cómo podríamos impulsar el interés por el área de detección de cardiopatías mediante la innovación en estudiantes para evitar fallecimientos por cardiopatías congénitas mediante una detección temprana?
+
 ### Hospital Nacional Dos de Mayo de Perú
 Se realizó un estudio observacional descriptivo en un hospital peruano de tercer nivel (Hospital Nacional Dos de Mayo, Lima, Perú). Se reportó que a partir de 446 pacientes que ingresaron en el servicio. Las cardiopatías más frecuentes fueron la insuficiencia cardiaca (51,57%), las cardiopatías congénitas (23,99%), la fibrilación auricular (17,49%) y el infarto agudo de miocardio (14,57%)[4].
 
