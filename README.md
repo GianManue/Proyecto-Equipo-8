@@ -18,17 +18,11 @@ Bienvenidos al repositorio  del Grupo 8 del curso Fundamentos de Biodiseño
 Prototipo ECG-PORTÁTIL (open hardware) para aplicaciones de educación STEM
 
 ## Contexto social
- Importancia de la educación STEM
- En la última década, la educación STEM ha sido uno de los puntos de enfoque en los que se ha estado trabajando. Este es una especie de aprendizaje basado en proyectos sobre la participación de los estudiantes.  Utiliza el proceso de investigación científica y diseño de ingeniería. Es un aprendizaje interdisciplinario activo.
- La educación STEM es esencial para preparar a las generaciones futuras para las demandas del mercado laboral en constante evolución, ya que muchas de las profesiones y carreras del futuro requerirán competencias en estas áreas. También desempeña un papel crucial en el avance de la ciencia y la tecnología, así como en la resolución de los desafíos globales que enfrenta la humanidad.
- En el sector educativo, las instituciones de educación superior son responsables de formar profesionales altamente calificados para la sociedad. “Los países deberían buscar estimular la innovación e impulsar la educación STEM por tres razones principales: (i) la innovación contribuye a un mejor nivel de vida, impulsa la competitividad y satisface las demandas de la sociedad.”(Atkinson, 2010)[1]
-
-
-
-
-
-
-
+Importancia de la educación STEM
+En la última década, la educación STEM ha sido uno de los puntos de enfoque en los que se ha estado trabajando. Este es una especie de aprendizaje basado en proyectos sobre la participación de los estudiantes.  Utiliza el proceso de investigación científica y diseño de ingeniería. Es un aprendizaje interdisciplinario activo.
+La educación STEM es esencial para preparar a las generaciones futuras para las demandas del mercado laboral en constante evolución, ya que muchas de las profesiones y carreras del futuro requerirán competencias en estas áreas. También desempeña un papel crucial en el avance de la ciencia y la tecnología, así como en la resolución de los desafíos globales que enfrenta la humanidad.
+En el sector educativo, las instituciones de educación superior son responsables de formar profesionales altamente calificados para la sociedad. “Los países deberían buscar estimular la innovación e impulsar la educación STEM por tres razones principales: (i) la innovación contribuye a un mejor nivel de vida, impulsa la competitividad y satisface las demandas de la sociedad.”(Atkinson, 2010) [1].
+ 
 El holter electrocardiográfico externo (ECG) es un dispositivo no invasivo que permite el registro continuo de la actividad eléctrica del corazón durante periodos largos de tiempo; no interfiere con las actividades diarias del paciente [1]. Asimismo, los ECG portables (holters) son dispositivos que han demostrado su utilidad para detectar arritmias de manera bastante eficaz en comparación con el método estándar de atención actual. Estos comprobaron su capacidad para mejorar la atención al paciente y reducir los costos de atención médica, mientras que dispositivos diferentes son destinados a utilizarse como una pantalla de lectura de señales a más grande escala [2]. 
 
 La interpretación del ECG es una habilidad cognitiva que requiere mucho tiempo y esfuerzo para dominarla [ 3 ]. Las interpretaciones inapropiadas, a su vez, aumentan los costos de atención médica y pueden retrasar el proceso de admisión, imponiendo una carga desagradable tanto a los hospitales como a los pacientes [4]
