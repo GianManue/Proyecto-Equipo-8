@@ -1,5 +1,5 @@
-# Biodiseño Equipo 8
-Bienvenidos al repositorio  del Grupo 8 del curso Fundamentos de Biodiseño
+# Biodiseño Equipo 8: Prototipo ECG-PORTÁTIL (open hardware) para aplicaciones de educación STEM
+Bienvenidos al repositorio del Grupo 8 del curso Fundamentos de Biodiseño
 
 ### Descripción de roles
  
