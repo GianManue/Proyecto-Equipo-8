@@ -57,20 +57,18 @@ Los datos recopilados del programa Harvard Medical School's MEDscience, estudio 
 
 La mortalidad por enfermedades cardiovasculares muestra una tendencia decreciente en los países desarrollados, mientras que en los países emergentes (como Perú) esta aumenta a medida que disminuyen las afecciones por desnutrición y enfermedades infecciosas [8].
 
-En el área de la atención médica en particular, la innovación en dispositivos médicos han probado ser recursos eficientes para curar, detectar y tratar enfermedades, haciendo un mejor uso de recursos escasos. Asimismo, los profesionales de la salud y profesionales en formación se han visto obligados a adquirir nuevas habilidades para hacer uso correcto de estas tecnologías con el objetivo de adaptarse al avance tecnológico que contribuye al aumento de calidad de vida en la población [9].
-
-## Problemática
-
-¿Cómo podríamos impulsar el interés por el área de detección de cardiopatías mediante la innovación en estudiantes para evitar fallecimientos por cardiopatías congénitas mediante una detección temprana?
-
-### Hospital Nacional Dos de Mayo de Perú
-Se realizó un estudio observacional descriptivo en un hospital peruano de tercer nivel (Hospital Nacional Dos de Mayo, Lima, Perú). Se reportó que a partir de 446 pacientes que ingresaron en el servicio. Las cardiopatías más frecuentes fueron la insuficiencia cardiaca (51,57%), las cardiopatías congénitas (23,99%), la fibrilación auricular (17,49%) y el infarto agudo de miocardio (14,57%)[4].
+En el hospital 2 de mayo, se realizó un estudio observacional descriptivo en un hospital peruano de tercer nivel (Hospital Nacional Dos de Mayo, Lima, Perú). Se reportó que a partir de 446 pacientes que ingresaron en el servicio. Las cardiopatías más frecuentes fueron la insuficiencia cardiaca (51,57%), las cardiopatías congénitas (23,99%), la fibrilación auricular (17,49%) y el infarto agudo de miocardio (14,57%)[4].
 
 ![adsad](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/26954453-9c88-438e-93a0-656e11893f0c)
 Tabla 1. Perú: Morbilidad registrada en consulta externa en MINSA y Gobiernos Regionales según grandes grupos de causas, 2019-2021 [5]
 
 Una gran parte de emergencias cardiovasculares que llevan a la muerte, tales como Fibrilación ventricular, Taquicardia Ventricular, entre otros pueden detectarse con ayuda de herramientas como la electrocardiografía, la cual debe ser una de las herramientas esenciales en los servicios de urgencias hospitalarias.
 
+En el área de la atención médica en particular, la innovación en dispositivos médicos han probado ser recursos eficientes para curar, detectar y tratar enfermedades, haciendo un mejor uso de recursos escasos. Asimismo, los profesionales de la salud y profesionales en formación se han visto obligados a adquirir nuevas habilidades para hacer uso correcto de estas tecnologías con el objetivo de adaptarse al avance tecnológico que contribuye al aumento de calidad de vida en la población [9].
+
+## Problemática
+
+¿Cómo podríamos impulsar el interés por el área de detección de cardiopatías mediante la innovación en estudiantes para evitar fallecimientos por cardiopatías congénitas mediante una detección temprana?
 
 ###  Formulación de problemática
 ¿Cómo podríamos diseñar un Open Hardware de bajo costo,  que cumpla funciones básicas para el entrenamiento de enfermeros sobre la interpretación de señales cardiácas todo ello en base al funcionamiento de los ECGs portátiles?
