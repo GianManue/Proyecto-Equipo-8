@@ -4,14 +4,10 @@ Bienvenidos al repositorio del Grupo 8 del curso Fundamentos de Biodiseño
 ### Descripción de roles
  | Descripción del Rol  | Nombre |
 | ------------- | ------------- |
-|*Kusi Qoyllur Uñapillco Franco Cordinadora general y Modealado 3D|
-|Coordinadora General a cargo de representar a su equipo en cada instancia de exposición, crear un espacio de bienestar en cada sesión de trabajo y liderar la acciones clave del proyecto.
-|* Gian Manuel Rojas Vergaray (Coordinador de Electrónica)|
- | -  Su rol consistirá en controlar, administrar, supervisar e instalar toda la parte electrónica del equipo, así como informar del uso de cada parte requerida e informar sobre cualquier falla. Trabajará directamente con el encargado de programación.|
-|* Daniel Alain Estela Rodríguez (Coordinador de Pogramación)|
-   |- Se encarga de diseñar los códigos de algoritmo necesarios para el funcionamiento óptimo del prototipo.|
-|* Ana Paula Cornejo Salazar (Coordinadora de Impresión 3D)|
-  |- Se encargará de la impresión 3D del prototipo cuando su modelado final esté terminado.| Asimismo, trabaja con la coordinadora de Diseño y Modelado 3D para llegar a un acuerdo en cuanto a las especificaciones que debe tener el prototipo para que su impresión 3D proceda sin problemas.|
+|*Kusi Qoyllur Uñapillco Franco Cordinadora general y Modealado 3D| Como coordinadora General se encargará de representar a su equipo en las presentaciones de los entregables, crear un espacio de bienestar en cada sesión de trabajo y liderar la acciones clave del proyecto.|
+|* Gian Manuel Rojas Vergaray (Coordinador de Electrónica)|-  Su rol consistirá en controlar, administrar, supervisar e instalar toda la parte electrónica del equipo, así como informar del uso de cada parte requerida e informar sobre cualquier falla. Trabajará directamente con el encargado de programación.|
+|* Daniel Alain Estela Rodríguez (Coordinador de Pogramación)|- Se encarga de diseñar los códigos de algoritmo necesarios para el funcionamiento óptimo del prototipo.|
+|* Ana Paula Cornejo Salazar (Coordinadora de Impresión 3D)|- Se encargará de la impresión 3D del prototipo cuando su modelado final esté terminado.| Asimismo, trabaja con la coordinadora de Diseño y Modelado 3D para llegar a un acuerdo en cuanto a las especificaciones que debe tener el prototipo para que su impresión 3D proceda sin problemas.|
 
 
 ![casadas]
