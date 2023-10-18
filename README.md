@@ -18,7 +18,9 @@ Bienvenidos al repositorio  del Grupo 8 del curso Fundamentos de Biodiseño
 Prototipo ECG-PORTÁTIL (open hardware) para aplicaciones de educación STEM
 
 ## Contexto social
+
 ### olam
+
 Importancia de la educación STEM
 En la última década, la educación STEM ha sido uno de los puntos de enfoque en los que se ha estado trabajando. Este es una especie de aprendizaje basado en proyectos sobre la participación de los estudiantes.  Utiliza el proceso de investigación científica y diseño de ingeniería. Es un aprendizaje interdisciplinario activo.
 
