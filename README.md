@@ -162,6 +162,9 @@ El producto será lo más parecido estéticamente a la mayoría de los holters y
 ![WhatsApp Image 2023-09-24 at 00 18 56](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/59597d74-0a91-4a93-a913-4499bf55380f)
 ![Add a little bit of body text (4)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/f108ccc2-cdf7-4df7-babe-46d82eed5968)
 
+### Conclusiones
+En conclusión, después de haber hecho una correcta valoración de los conceptos de solución, la propuesta 3 resulto ganadora puesto que presentó un mayor valoración.
+
 ## Bocetos
 ![Add a little bit of body text (8)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/0f38976d-9797-42ca-9842-5f591d65321b)
 ![Add a little bit of body text (9)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/a4f8d476-0db1-4d17-962b-3d158d2ae293)
@@ -170,13 +173,16 @@ El producto será lo más parecido estéticamente a la mayoría de los holters y
 ![Add a little bit of body text (12)](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/d6bebeb3-51a4-4c4a-8f7e-086e06bd55c9)
 
 ## Tabla de valoración técnica y económica
-![WhatsApp Image 2023-09-26 at 23 54 29](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/d139114f-05a4-4cce-b743-a535d0de0076)
-![6b90dab0-24c4-4c82-bf05-3319ba970d6c](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/a8d1dfc6-517c-415d-8cf0-eec4235c78ee)
+![Add a little bit of body text (13)](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/2acfc017-d452-4413-a41a-64a4f3f94aab)
+![Add a little bit of body text (14)](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/525d95b9-097c-4d5b-acbe-58b2789e63a8)
+![Add a little bit of body text (15)](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/8fcc3f2d-d15d-484d-9219-e497f008197c)
 
-![499a22f4-94bf-4444-8372-d0dab5028f77](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/f8de4aef-1e75-4f4a-86d8-714476902f80)
 
-### Conclusiones
-En conclusión, después de haber hecho una correcta valoración de los conceptos de solución, la propuesta 3 resulto ganadora puesto que presentó un mayor valoración.
+## Esquema Electrónico
+![6a620cb1-2bcc-4c80-a345-027fe27fa352](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/a84eaeaf-0d92-4f67-bd26-8b3ae2702d84)
+
+
+
   ## Bibliografía
 [1] Fernández, M. F. (2017). Manual de Enfermería. Enfermería en cardiología, 7, 123–136.
 https://enfermeriaencardiologia.com/wp-content/uploads/electro_07.pdf
