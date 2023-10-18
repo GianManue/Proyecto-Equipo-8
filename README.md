@@ -55,7 +55,7 @@ Los datos recopilados del programa Harvard Medical School's MEDscience, estudio 
 
 ### Relación entre problemas cardiacos y la necesidad de normalizar la familiarización con nuevas tecnologías
 
-La mortalidad por enfermedades cardiovasculares muestra una tendencia decreciente en los países desarrollados, mientras que en los países emergentes esta aumenta a medida que disminuyen las afecciones por desnutrición y enfermedades infecciosas [8].
+La mortalidad por enfermedades cardiovasculares muestra una tendencia decreciente en los países desarrollados, mientras que en los países emergentes (como Perú) esta aumenta a medida que disminuyen las afecciones por desnutrición y enfermedades infecciosas [8].
 
 En el área de la atención médica en particular, la innovación en dispositivos médicos han probado ser recursos eficientes para curar, detectar y tratar enfermedades, haciendo un mejor uso de recursos escasos. Asimismo, los profesionales de la salud y profesionales en formación se han visto obligados a adquirir nuevas habilidades para hacer uso correcto de estas tecnologías con el objetivo de adaptarse al avance tecnológico que contribuye al aumento de calidad de vida en la población [9].
 
