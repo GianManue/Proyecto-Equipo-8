@@ -193,7 +193,7 @@ En conclusión, después de haber hecho una correcta valoración de los concepto
 ## Impresión 3D
 ### Parametros de Impresión
 ![parametros](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/f6975307-4cd1-47ec-822a-e6d730f28ae7)
-![WhatsApp Image 2023-10-25 at 12 36 25 PM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/20c4312b-8d21-4da9-92ea-d0f1792614d7)
+![WhatsApp Image 2023-10-25 at 12 13 18 PM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/764ec327-b3d2-4645-99e6-d9a13712be2c)
 
 ## Electrónica
 ### Esquema Electrónico
