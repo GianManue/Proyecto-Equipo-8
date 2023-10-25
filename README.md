@@ -183,7 +183,8 @@ En conclusión, después de haber hecho una correcta valoración de los concepto
 ![Captura de pantalla 2023-10-25 074540](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/9cd0eb9e-765f-42fd-b611-bac65b28a796)
 
 ### Planos y vistas de piezas a imprimir
-https://github.com/Kusi12/Proyecto-Equipo-8/issues/9#issue-1961899003
+![Captura de pantalla 2023-10-25 021018](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/d0ef07b0-8fc8-4193-abb8-dd22f5b32add)
+
 
 
 ## Esquema Electrónico
