@@ -190,7 +190,9 @@ En conclusión, después de haber hecho una correcta valoración de los concepto
 
 ![Captura de pantalla 2023-10-25 015431](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/b06b38b5-8007-4217-b65f-715a8f3bab01)
 
-
+## Impresión 3D
+### Parametros de Impresión
+![parametros](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/f6975307-4cd1-47ec-822a-e6d730f28ae7)
 
 ## Esquema Electrónico
 ![6a620cb1-2bcc-4c80-a345-027fe27fa352](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/a84eaeaf-0d92-4f67-bd26-8b3ae2702d84)
