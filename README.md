@@ -182,6 +182,8 @@ En conclusión, después de haber hecho una correcta valoración de los concepto
 ### Vista explosiva
 ![Captura de pantalla 2023-10-25 074540](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/9cd0eb9e-765f-42fd-b611-bac65b28a796)
 
+### Planos y vistas de piezas a imprimir
+
 
 
 ## Esquema Electrónico
