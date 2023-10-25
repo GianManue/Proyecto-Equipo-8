@@ -194,9 +194,12 @@ En conclusión, después de haber hecho una correcta valoración de los concepto
 ### Parametros de Impresión
 ![parametros](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/f6975307-4cd1-47ec-822a-e6d730f28ae7)
 
-## Esquema Electrónico
-![6a620cb1-2bcc-4c80-a345-027fe27fa352](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/a84eaeaf-0d92-4f67-bd26-8b3ae2702d84)
+## Electrónica
+### Esquema Electrónico
 
+![6a620cb1-2bcc-4c80-a345-027fe27fa352](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/a84eaeaf-0d92-4f67-bd26-8b3ae2702d84)
+### Programación
+![WhatsApp Image 2023-10-25 at 12 36 25 PM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/20c4312b-8d21-4da9-92ea-d0f1792614d7)
 
 
   ## Bibliografía
