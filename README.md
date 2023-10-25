@@ -157,7 +157,7 @@ El producto será lo más parecido estéticamente a la mayoría de los holters y
 ![Add a little bit of body text (5)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/891bfa2a-5a28-4fbe-af8c-dc2e03d12168)
 
 ## Tabla de valoraciones
-![WhatsApp Image 2023-09-24 at 00 18 56](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/59597d74-0a91-4a93-a913-4499bf55380f)
+![WhatsApp Image 2023-10-25 at 10 08 14 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/330cf4a6-ac54-4dfe-a464-c69eed0ed4db)
 ![WhatsApp Image 2023-10-25 at 10 08 14 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/330cf4a6-ac54-4dfe-a464-c69eed0ed4db)
 
 ### Conclusiones
