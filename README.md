@@ -187,6 +187,7 @@ En conclusión, después de haber hecho una correcta valoración de los concepto
 
 
 
+
 ## Esquema Electrónico
 ![6a620cb1-2bcc-4c80-a345-027fe27fa352](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/a84eaeaf-0d92-4f67-bd26-8b3ae2702d84)
 
