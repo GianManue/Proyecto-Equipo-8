@@ -183,6 +183,9 @@ En conclusión, después de haber hecho una correcta valoración de los concepto
 ![Captura de pantalla 2023-10-25 074540](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/9cd0eb9e-765f-42fd-b611-bac65b28a796)
 
 ### Planos y vistas de piezas a imprimir
+
+![Captura de pantalla 2023-10-25 013831](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/02d56753-26cc-4c87-8ad6-3cf865d82a31)
+
 ![Captura de pantalla 2023-10-25 021018](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/d0ef07b0-8fc8-4193-abb8-dd22f5b32add)
 
 ![Captura de pantalla 2023-10-25 015431](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/b06b38b5-8007-4217-b65f-715a8f3bab01)
