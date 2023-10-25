@@ -185,6 +185,7 @@ En conclusión, después de haber hecho una correcta valoración de los concepto
 ### Planos y vistas de piezas a imprimir
 ![Captura de pantalla 2023-10-25 021018](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/d0ef07b0-8fc8-4193-abb8-dd22f5b32add)
 
+![Captura de pantalla 2023-10-25 015431](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/b06b38b5-8007-4217-b65f-715a8f3bab01)
 
 
 
