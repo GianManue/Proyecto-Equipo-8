@@ -208,6 +208,10 @@ Diseño esquemático del circuito electrónico(Versión final según observacion
 Script de programación para el microcontrolador (Versión corregida)
 - [Script de programación para el microcontrolador.pdf](https://github.com/Kusi12/Proyecto-Equipo-8/files/13247868/Script.de.programacion.para.el.microcontrolador.pdf)
 
+DFD de un programa en Arduino:
+- Enlace para ver en miro:
+  https://miro.com/welcomeonboard/M0wxR203R3VKRkM3bXFTdUJINm1ROU1mbTN5WVc5bkRMS3E2S3kyaER0ajJwUVpuU0xPSTFkWW56bmdPV0xodnwzNDU4NzY0NTY4ODA2NTY2ODI2fDI=?share_link_id=327736000504
+![DDF](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/baa04f88-b6a7-4a75-87a3-0a20edaba301)
 
 ## Modelado 3D corregido e Impresión 3D
 ### Ensamble final / Case/ Componentes
