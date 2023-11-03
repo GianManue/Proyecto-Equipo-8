@@ -201,9 +201,13 @@ En conclusión, después de haber hecho una correcta valoración de los concepto
 ![6a620cb1-2bcc-4c80-a345-027fe27fa352](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/a84eaeaf-0d92-4f67-bd26-8b3ae2702d84)
 ### Programación
 ![WhatsApp Image 2023-10-25 at 12 36 25 PM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/20c4312b-8d21-4da9-92ea-d0f1792614d7)
+
+
 # Entregable 6
 ## Hardware:
 Diseño esquemático del circuito electrónico(Versión final según observaciones del entregable anterior)
+- Diseño esquematico corregido: [Schematic_HolterV1_2023-10-18.pdf](https://github.com/Kusi12/Proyecto-Equipo-8/files/13250380/Schematic_HolterV1_2023-10-18.pdf)
+
 ## Software:
 Script de programación para el microcontrolador (Versión corregida)
 - [Script de programación para el microcontrolador.pdf](https://github.com/Kusi12/Proyecto-Equipo-8/files/13247868/Script.de.programacion.para.el.microcontrolador.pdf)
