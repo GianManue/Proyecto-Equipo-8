@@ -222,9 +222,13 @@ Enlaces para ver en la plataforma Onshape
 ### Planos
 - Tapa con soportes: 
 ### Impresión 3D_Parametros Cura
+- Parámetros tapa con soportes
+![WhatsApp Image 2023-11-02 at 11 45 29 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/4d0b7097-edde-4e85-aa09-8a7cd0c389ef)
+- Parámetros tapa arriba y laterales
+
 ### Ejecución del código con los componentes
  - Módulo ECG: Ad8232
-   ![WhatsApp Image 2023-11-03 at 1 46 44 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/c1a2b42f-580e-45a0-b114-6616152451e4)
+   - ![WhatsApp Image 2023-11-03 at 1 46 44 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/c1a2b42f-580e-45a0-b114-6616152451e4)
      
 
   ## Bibliografía
