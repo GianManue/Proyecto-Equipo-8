@@ -220,9 +220,10 @@ Enlaces para ver en la plataforma Onshape
 
 
 ### Planos
-- Tapa con soportes: Modelado 3D/Plano Tapa con soportes v8.pdf
+- Tapa con soportes: 
 ### Impresión 3D_Parametros Cura
-
+### Ejecución del código con los componentes
+ - Módulo ECG: Ad8232
      
 
   ## Bibliografía
