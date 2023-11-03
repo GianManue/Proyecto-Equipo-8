@@ -220,7 +220,7 @@ Enlaces para ver en la plataforma Onshape
 
 
 ### Planos
-
+- Tapa con soportes: Modelado 3D/Plano Tapa con soportes v8.pdf
 ### Impresión 3D_Parametros Cura
 
      
