@@ -229,6 +229,7 @@ Enlaces para ver en la plataforma Onshape
 
 ### Ejecución del código con los componentes
  - Módulo ECG: Ad8232
+    - Video de la prueba: https://drive.google.com/file/d/1PL_Z3bpm8nl_WgxrfWn5lu9DBpf63P_T/view?usp=sharing
    - ![WhatsApp Image 2023-11-03 at 1 46 44 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/c1a2b42f-580e-45a0-b114-6616152451e4)
      
 
