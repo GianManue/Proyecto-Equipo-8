@@ -225,6 +225,7 @@ Enlaces para ver en la plataforma Onshape
 - Parámetros tapa con soportes
 ![WhatsApp Image 2023-11-02 at 11 45 29 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/4d0b7097-edde-4e85-aa09-8a7cd0c389ef)
 - Parámetros tapa arriba y laterales
+### ![WhatsApp Image 2023-11-02 at 11 44 46 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/3dc2d5ef-5e48-479c-9a38-5f5071c8853c)
 
 ### Ejecución del código con los componentes
  - Módulo ECG: Ad8232
