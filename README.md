@@ -206,7 +206,7 @@ En conclusión, después de haber hecho una correcta valoración de los concepto
 Diseño esquemático del circuito electrónico(Versión final según observaciones del entregable anterior)
 ## Software:
 Script de programación para el microcontrolador (Versión corregida)
-
+- [Script de programación para el microcontrolador.pdf](https://github.com/Kusi12/Proyecto-Equipo-8/files/13247868/Script.de.programacion.para.el.microcontrolador.pdf)
 
 
 ## Modelado 3D corregido e Impresión 3D
