@@ -221,6 +221,7 @@ Enlaces para ver en la plataforma Onshape
 
 ### Planos
 - Tapa con soportes:
+  [Plano Tapa con soportes v8.pdf](https://github.com/Kusi12/Proyecto-Equipo-8/files/13247445/Plano.Tapa.con.soportes.v8.pdf)
 - Tapa arriba:
   [Plano Tapa Arriba v23.pdf](https://github.com/Kusi12/Proyecto-Equipo-8/files/13247433/Plano.Tapa.Arriba.v23.pdf)
 - tapas laterales:
