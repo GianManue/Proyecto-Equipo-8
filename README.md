@@ -220,7 +220,10 @@ Enlaces para ver en la plataforma Onshape
 
 
 ### Planos
-- Tapa con soportes: 
+- Tapa con soportes:
+- Tapa arriba:
+  [Plano Tapa Arriba v23.pdf](https://github.com/Kusi12/Proyecto-Equipo-8/files/13247433/Plano.Tapa.Arriba.v23.pdf)
+- tapas laterales:
 ### Impresión 3D_Parametros Cura
 - Parámetros tapa con soportes
 ![WhatsApp Image 2023-11-02 at 11 45 29 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/4d0b7097-edde-4e85-aa09-8a7cd0c389ef)
