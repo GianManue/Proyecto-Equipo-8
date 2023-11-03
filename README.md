@@ -225,6 +225,9 @@ Enlaces para ver en la plataforma Onshape
 - Tapa arriba:
   [Plano Tapa Arriba v23.pdf](https://github.com/Kusi12/Proyecto-Equipo-8/files/13247433/Plano.Tapa.Arriba.v23.pdf)
 - tapas laterales:
+  [Plano Tapas laterales.pdf](https://github.com/Kusi12/Proyecto-Equipo-8/files/13247456/Plano.Tapas.laterales.pdf)
+
+  
 ### Impresión 3D_Parametros Cura
 - Parámetros tapa con soportes
 ![WhatsApp Image 2023-11-02 at 11 45 29 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/4d0b7097-edde-4e85-aa09-8a7cd0c389ef)
