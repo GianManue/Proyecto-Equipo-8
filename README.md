@@ -203,22 +203,21 @@ En conclusión, después de haber hecho una correcta valoración de los concepto
 ![WhatsApp Image 2023-10-25 at 12 36 25 PM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/20c4312b-8d21-4da9-92ea-d0f1792614d7)
 # Entregable 6
 ## Hardware:
---Diseño esquemático del circuito electrónico(Versión final según observaciones del entregable anterior)
+Diseño esquemático del circuito electrónico(Versión final según observaciones del entregable anterior)
 ## Software:
---Script de programación para el microcontrolador (Versión corregida)
+Script de programación para el microcontrolador (Versión corregida)
 ## Modelado 3D corregido e Impresión 3D
 ### Ensamble final / Case/ Componentes
----- Enlaces para ver en la plataforma Onshape
-----Ensamble en onshape:
+Enlaces para ver en la plataforma Onshape
+- Ensamble en onshape:
      https://cad.onshape.com/documents/cbe0f802679aec156db819e7/w/e21ccd46baae14c19bb1f7fe/e/7b9ad881ef9f6bcbd51bafd7?renderMode=0&uiState=6543cb2c1f49927ebc75826f
-----Tapa con soportes:  
+- Tapa con soportes:  
      https://cad.onshape.com/documents/8701d842a11798cc2daa2280/w/fabaf6ffb3ec3047bdf00d46/e/a1990a3b90756a40b9e8a798?renderMode=0&uiState=6542f41a4db1fe60a47ca669
-----Tapa superior: 
+- Tapa superior: 
     https://cad.onshape.com/documents/d27653f364208cdf30e69355/w/7051d529d66c30fa6cbc7690/e/a34d291e62128187797262a4?renderMode=0&uiState=6542f4606559cc4a64920703
-----tapa infeferior: 
+- tapa infeferior: 
     https://cad.onshape.com/documents/8ffec9f7b882d98b36f9a70e/w/16ad73dca82b393dc53030ad/e/c65f1d701e9005249d1cc722?renderMode=0&uiState=6542f48e4db1fe60a47ca74d
-----tapa inferior:
-    https://cad.onshape.com/documents/d1fd3c22ee5d9116b90cddac/w/035519f53fefd88ab5dfcd3b/e/2995e608f48778feacd5a04f
+
 
 ### Planos
 
