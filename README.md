@@ -282,41 +282,44 @@ Las siguientes imagenes son  el código implementado en uno solo:
 ### Lista de retos y limitaciones
 - Integración Hardware
 
-   Limitaciones:
+   - Limitaciones:
      Los componentes interiores no pueden exceder los límites preestablecidos (prácticamente no hay margen de error).
-     Los componentes electrónicos son complicados de conseguir, son específicos en muchos aspectos y esto limita su búsqueda. 
+     Los componentes electrónicos son complicados de conseguir, son específicos en muchos aspectos y esto limita su búsqueda.
+      Algunos componentes tienen un precio elevado (módulo egc).
 
-     Algunos componentes tienen un precio elevado (módulo egc).
-
-    Reto: 
-     Lograr que todos los componentes electrónicos funcionen a la par correctamente y que su tamaño no exceda para nada las medidas preestablecidas junto con el modelado 3D. 
-
-  Posible solución:
-
-  Buscar otros componentes que sean compatibles con el circuito electrónico y así tener más opciones.
-  Buscar componentes electrónicos más baratos y accesibles , que cumplan roles parecidos a los del circuito original. 
-  Revisar las cotas del modelado 3D para que el tamaño no sea tan restringido.
+    - Retos: 
+     Lograr que todos los componentes electrónicos funcionen a la par correctamente y que su tamaño no exceda para nada las medidas preestablecidas junto con el modelado 3D.
+    - Posible solución:
+      Buscar otros componentes que sean compatibles con el circuito electrónico y así tener más opciones.
+      Buscar componentes electrónicos más baratos y accesibles , que cumplan roles parecidos a los del circuito original.
+      Revisar las cotas del modelado 3D para que el tamaño no sea tan restringido.
 
 
-  Impresión 3D:
-  Limitación: La integración de los componentes, con la manufactura 3D, con la forma de unión de las piezas (pernos) no es precisa o predecible.
-  Reto: Hacer que los pernos encajen con los orificios destinados a ello.
-  Posible Solución: Realizar pequeñas pruebas con el módulo para modificar algunos códigos y tener un margen de tiempo para mejorar el modelado.
+  Electrónica e Impresión 3D:
+     - Limitación: La integración de los componentes, con la manufactura 3D, con la forma de unión de las piezas (pernos) no es precisa o predecible.
+     - Reto: Hacer que los pernos encajen con los orificios destinados a ello.
+     - Posible Solución: Realizar pequeñas pruebas con el módulo para modificar algunos códigos y tener un margen de tiempo para mejorar el modelado. Hacer mejoras en el modelado 3D
 
 
 - Manufactura Digital
-  - Modelado 3D
+
   
-  Limitaciones:
-  Hacer un buen boceto y calcular bien la dimensiones de la carcasa superior, inferior y las laterales para que los componentes puedan encajar  y ser unidas con tornillos.
-  Las dimensiones de algunos componentes para el ensamblado no se obtuvieron de manera específica en plataformas como grabcad.
+  Modelado 3D
+   - Limitaciones:
+      Hacer un buen boceto y calcular bien la dimensiones de la carcasa superior, inferior y las laterales para que los componentes puedan encajar  y ser unidas con tornillos.
+       Las dimensiones de algunos componentes para el ensamblado no se obtuvieron de manera específica en plataformas como grabcad.
+   - Retos:El modelado de los soportes de los componentes fueron diseñados de acuerdo a las medidas generales, todo ello tomando en cuenta la funcionalidad y posición dentro del case.
 
-  Retos:El modelado de los soportes de los componentes fueron diseñados de acuerdo a las medidas generales, todo ello tomando en cuenta la funcionalidad y posición dentro del case.
+   - Posibles soluciones
+     Diseñar y modificar las dimensiones de la carcasa general para que todos los componentes y piezas encajen e interfieran con la parte de la electrónica. 
+     Diseñar soportes tomando en cuenta las medidas para  que estas sirvan de anclaje de los componentes.
+     Hacer algunos cambios en el diseño dependiendo del cambio de componentes( Batería de 9v- pilas de litio: diseño del case para la batería).
+   
 
-  Posibles soluciones
-  Diseñar y modificar las dimensiones de la carcasa general para que todos los componentes y piezas encajen e interfieran con la parte de la electrónica. 
-  Diseñar soportes tomando en cuenta las medidas para  que estas sirvan de anclaje de los componentes.
-  Hacer algunos cambios en el diseño dependiendo del cambio de componentes( Batería de 9v- pilas de litio: diseño del case para la batería).
+  Impresión 3D
+  - Limitación: Prototipo debe ser resistente/robusto para proteger los componentes que resguarda en el interior.
+  - Reto: Diseñar un “exoesqueleto” que permita que el prototipo tenga caídas sin daños decisivos para su funcionamiento
+  - Posible solución: Preparar un fluido no newtoniano que disminuya la fuerza del impacto a los componentes internos
 
 
 ###
