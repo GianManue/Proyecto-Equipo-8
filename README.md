@@ -273,7 +273,8 @@ Llama a client.loop()para mantener la comunicación MQTT.
 Espere 500 milisegundos antes de repetir el ciclo.
 
 ### Implementación en un solo código
-Las siguientes imagenes son  el código implementado en uno solo:
+####Las siguientes imagenes son  el código implementado en uno solo:
+- ![WhatsApp Image 2023-11-08 at 11 52 29 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/79fc339e-beed-44b2-b865-f3871e96a65e)
 - 
 ### Lista de retos y limitaciones
 - Integración Hardware
