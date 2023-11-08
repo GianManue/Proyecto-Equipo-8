@@ -321,7 +321,11 @@ Las siguientes imagenes son  el código implementado en uno solo:
   - Reto: Diseñar un “exoesqueleto” que permita que el prototipo tenga caídas sin daños decisivos para su funcionamiento
   - Posible solución: Preparar un fluido no newtoniano que disminuya la fuerza del impacto a los componentes internos
 
-
+#### Imágenes y videos de pruebas  
+- Imagen de implementación del case y los componentes
+- Imagen de las puebas de los sensores
+  
+Video de la prueba: https://drive.google.com/file/d/1PL_Z3bpm8nl_WgxrfWn5lu9DBpf63P_T/view?usp=sharing
 ###
   ## Bibliografía
 [1] Fernández, M. F. (2017). Manual de Enfermería. Enfermería en cardiología, 7, 123–136.
