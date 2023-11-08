@@ -274,7 +274,8 @@ Espere 500 milisegundos antes de repetir el ciclo.
 
 ### Implementación en un solo código
 ####Las siguientes imagenes son  el código implementado en uno solo:
-- ![WhatsApp Image 2023-11-08 at 11 52 29 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/79fc339e-beed-44b2-b865-f3871e96a65e) ![WhatsApp Image 2023-11-08 at 11 52 51 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/c4d905b2-ff95-44d6-b20c-e8af8ee5fe3c)
+![1](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/88323113-b428-4755-b916-d5e76940640c)
+
 - 
 ### Lista de retos y limitaciones
 - Integración Hardware
