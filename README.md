@@ -250,7 +250,34 @@ Enlaces para ver en la plataforma Onshape
     - Video de la prueba: https://drive.google.com/file/d/1PL_Z3bpm8nl_WgxrfWn5lu9DBpf63P_T/view?usp=sharing
    - ![WhatsApp Image 2023-11-03 at 1 46 44 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/c1a2b42f-580e-45a0-b114-6616152451e4)
      
+# Entregable 7
+## Reporte de Puebas, Retos y Limitaciones
+### Modulos
+Inclusión de Bibliotecas :
 
+#Include <WiFi.h>: Esta línea incluye la biblioteca WiFi, que permite al ESP32 conectarse a una red Wi-Fi.
+#Include <PubSubClient.h>: Esta línea incluye la biblioteca PubSubClient, que se utiliza para implementar la comunicación MQTT en el ESP32.
+Funciones auxiliares :
+
+- callback(char* topic, byte* payload, unsigned int length): Esta función se llama cuando el ESP32 recibe mensajes del servidor MQTT. Toma el tema (topic) y los datos (payload) del mensaje recibido.
+reconnect(): Esta función se encarga de establecer y gestionar la conexión MQTT con el servidor de Ubidots.
+- Función de configuración ( setup()): La función setup()se ejecuta una vez al inicio del programa y de otras funciones como configurar la comunicación serial para la depuración,
+iniciar la conexión a la red Wi-Fi ,configurar el pin SENSOR como entrada para leer el valor del sensor,establecer la conexión al servidor MQTT de Ubidots y asociar la función callback al cliente MQTT.
+- Función de Ciclo Principal ( loop()) :
+La función loop()se ejecuta de forma repetida.
+Comprueba si el cliente MQTT está conectado. Si no lo está, llama a la función reconnect()para volver a conectarse.
+Lee el valor del sensor conectado al pin SENSOR.
+Convierte el valor del sensor en una cadena y lo agrega al mensaje MQTT (payload).
+Publica el mensaje en el tema (topic) especificado.
+Llama a client.loop()para mantener la comunicación MQTT.
+Espere 500 milisegundos antes de repetir el ciclo.
+
+### Implementación en un solo código
+### Lista de retos y limitaciones
+- 
+
+
+###
   ## Bibliografía
 [1] Fernández, M. F. (2017). Manual de Enfermería. Enfermería en cardiología, 7, 123–136.
 https://enfermeriaencardiologia.com/wp-content/uploads/electro_07.pdf
