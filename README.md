@@ -323,8 +323,12 @@ Las siguientes imagenes son  el código implementado en uno solo:
 
 #### Imágenes y videos de pruebas  
 - Imagen de implementación del case y los componentes
+  ![WhatsApp Image 2023-11-08 at 11 50 58 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/0b2114f8-c85e-4c6e-af17-93fa163405e5)
+
 - Imagen de las puebas de los sensores
-  
+  ![WhatsApp Image 2023-11-08 at 12 35 18 PM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/6e2ee2d3-21eb-4d2c-b70a-861873ac1e10)
+![WhatsApp Image 2023-11-08 at 12 35 17 PM (1)](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/1dcd9f27-7ef6-48f2-afd6-dd072f308977)
+![WhatsApp Image 2023-11-08 at 12 35 17 PM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/881b9741-c3d9-415f-ac4b-bbecc04d9c10)
 Video de la prueba: https://drive.google.com/file/d/1PL_Z3bpm8nl_WgxrfWn5lu9DBpf63P_T/view?usp=sharing
 ###
   ## Bibliografía
