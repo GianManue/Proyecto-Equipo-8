@@ -139,11 +139,15 @@ El producto será lo más parecido estéticamente a la mayoría de los holters y
 ### Componentes 
 | Componentes | Descripción | Imagen |
 | ------------- | ------------- |---------|
-|Esp32|Su capacidad de concectarse por wifi y bluetoh convierte a este procesador en uno mas portatil y versatil|![500_333](|
+|Esp32|Su capacidad de concectarse por wifi y bluetoh convierte a este procesador en uno mas portatil y versatil|![descarga](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/572d79c3-82e7-4b2a-9000-a20605de663e)(|
 |Electrodos para ECG|Electrodos genericos y descartable, suficientes para suplir la necesidades|![IMG_0314-1000x1000](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/ba69c999-892a-4b00-91a9-031ec36e91b7)|
-|Alimentación|Presenta puestos USB que serán usados para recargar el dispositivo cuando este lo requiera  (alimentador AD a DC o una batería ) |![81S7-CK+AlL _AC_UF1000,1000_QL80_](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/99ab2798-3f6a-4aba-b00e-7070bef419eb)|
+|Alimentación|Presenta puestos USB que serán usados para recargar el dispositivo cuando este lo requiera  (alimentador AD a DC o una batería ) |![plug-conector-de-bateria-9v-para-jack-arduino](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/38a11bef-2a8d-46b6-a517-a2f3d5eef6d8)|
 |Carcasa|Cobertura diseñada a escala y con gran detalle con el uso de varias herramientas que facilitarán el proceso.|![68095-6663521](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/18998faf-a882-4684-9a86-b5d4c3bf07e9)|
-|Raspberry Pi|Ordenador de placa reducida de bajo costo |![Raspberry_Pi_4_Model_B_-_Side](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/eff871b6-ed65-4228-8123-3267d1ffc5bf)|
+|Módulo ECG: para sensar|AD8232 funciona mediante el uso de un amplificador de instrumentación para amplificar la señal eléctrica débil del corazón, un filtro de señal para eliminar el ruido y las interferencias de la señal y una interfaz de conexión para electrodos. |![descarga (1)](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/282c2f4f-6d6e-423c-b878-45e39ecf7e94)|
+|Reguladro de Bateria|regulador de voltaje es un dispositivo electrónico diseñado para mantener un nivel de tensión constante|![1-250x250](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/cc57d48d-d801-498b-b93e-82a26f9d8a5c)|
+
+
+
 
 
 ## Caja Negra
