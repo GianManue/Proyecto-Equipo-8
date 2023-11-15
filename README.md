@@ -353,7 +353,9 @@ Video de la prueba: https://drive.google.com/file/d/1PL_Z3bpm8nl_WgxrfWn5lu9DBpf
   - ¿Cuánto debe resistir en términos de movimientos bruscos, caídas, choques?
   - ¿Qué dimensiones debe tener?
   - ¿Qué tan vistoso debe ser para resultar interactivo?
+  ![a](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/c073d021-a659-4fed-8b87-45ddecde0f1c)
 
+  ![b](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/fd4e0a27-e73c-453e-99b5-55ef4b9a63d3)
 
 ### Evaluación para implementar o eliminar requerimientos que no se cumplieron
 - Implemetar
