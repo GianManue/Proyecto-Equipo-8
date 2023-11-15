@@ -344,7 +344,9 @@ Video de la prueba: https://drive.google.com/file/d/1PL_Z3bpm8nl_WgxrfWn5lu9DBpf
   ![1](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/0c3ccc71-78cf-4062-8eff-db0258b6480d)
 
 - Tabla de verificación del Hardware
+  
   ![2](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/b577f2e9-7ef5-4e9b-8eba-a92740d4955f)
+  
   Preguntas clave:
   - ¿Cuánto debe pesar el dispositivo?
   - ¿Cuánto debe durar la batería?
