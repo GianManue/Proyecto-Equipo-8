@@ -160,9 +160,6 @@ El producto será lo más parecido estéticamente a la mayoría de los holters y
 ## Matriz morfológica
 ![Add a little bit of body text (5)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/891bfa2a-5a28-4fbe-af8c-dc2e03d12168)
 
-## Tabla de valoraciones
-![WhatsApp Image 2023-10-25 at 10 08 14 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/330cf4a6-ac54-4dfe-a464-c69eed0ed4db)
-![WhatsApp Image 2023-10-25 at 10 08 14 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/330cf4a6-ac54-4dfe-a464-c69eed0ed4db)
 
 ### Conclusiones
 En conclusión, después de haber hecho una correcta valoración de los conceptos de solución, la propuesta 3 resulto ganadora puesto que presentó un mayor valoración.
@@ -175,10 +172,8 @@ En conclusión, después de haber hecho una correcta valoración de los concepto
 ![Add a little bit of body text (12)](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/d6bebeb3-51a4-4c4a-8f7e-086e06bd55c9)
 
 ## Tabla de valoración técnica y económica
-![Add a little bit of body text (13)](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/2acfc017-d452-4413-a41a-64a4f3f94aab)
-![Add a little bit of body text (14)](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/525d95b9-097c-4d5b-acbe-58b2789e63a8)
-![Add a little bit of body text (15)](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/8fcc3f2d-d15d-484d-9219-e497f008197c)
-
+![WhatsApp Image 2023-10-25 at 10 08 14 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/330cf4a6-ac54-4dfe-a464-c69eed0ed4db)
+![WhatsApp Image 2023-10-25 at 10 08 14 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/330cf4a6-ac54-4dfe-a464-c69eed0ed4db)
 ## Modelado 3D
 ### Modelado Ed del ensamble
 ![Captura de pantalla 2023-10-25 062924](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/97215869-43d2-4461-9222-7f6ceb8e3d9d)
