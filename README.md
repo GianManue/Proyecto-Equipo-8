@@ -211,6 +211,7 @@ Diseño esquemático del circuito electrónico(Versión final según observacion
 ## Software:
 Script de programación para el microcontrolador (Versión corregida)
 - [Script de programación para el microcontrolador.pdf](https://github.com/Kusi12/Proyecto-Equipo-8/files/13247868/Script.de.programacion.para.el.microcontrolador.pdf)
+- Archivo Bin
 
 DFD de un programa en Arduino:
 - Enlace para ver en miro:
