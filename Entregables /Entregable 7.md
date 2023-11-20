@@ -12,6 +12,10 @@
 - Limitaciones: Los componentes interiores no pueden exceder los límites preestablecidos (prácticamente no hay margen de error). Los componentes electrónicos son complicados de conseguir, son específicos en muchos aspectos y esto limita su búsqueda. Algunos componentes tienen un precio elevado (módulo egc).
 - Retos: Lograr que todos los componentes electrónicos funcionen a la par correctamente y que su tamaño no exceda para nada las medidas preestablecidas junto con el modelado 3D.
 - Posible solución: Buscar otros componentes que sean compatibles con el circuito electrónico y así tener más opciones. Buscar componentes electrónicos más baratos y accesibles , que cumplan roles parecidos a los del circuito original. Revisar las cotas del modelado 3D para que el tamaño no sea tan restringido.
+### Integración Hardware: Programación
+- Limitaciones: Por ahora, la lectura EKG funciones solo si el prorotipo está conectado a la computadora mediante un cable USB.
+- Retos: Lograr que la lectura pueda realizarse incluso sin estar conectado, para que el dispositivo sea portable.
+- Posible solución: Modificar el código actual con otra librería que nos permita esto.
 ### Manufactura digital: Modelado 3D
 - Limitaciones: Hacer un buen boceto y calcular bien la dimensiones de la carcasa superior, inferior y las laterales para que los componentes puedan encajar y ser unidas con tornillos. Las dimensiones de algunos componentes para el ensamblado no se obtuvieron de manera específica en plataformas como grabcad.
 - Retos: El modelado de los soportes de los componentes fueron diseñados de acuerdo a las medidas generales, todo ello tomando en cuenta la funcionalidad y posición dentro del case.
