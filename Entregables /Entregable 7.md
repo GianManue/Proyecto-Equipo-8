@@ -32,6 +32,7 @@
 Implementación del case y los componentes
 ![integracionhardware_1](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143301247/6f57e01c-95ed-42cd-b3a9-a84c1c1995a6)
 ![integracionhardware_2](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143301247/2dce937e-0724-4344-ae1f-f2d63c522c23)
+![integracionhardware_3](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143301247/87e41199-2e69-4f55-9dc2-f30c9bbb3f4e)
 
 Pruebas de los sensores
 ...imagen y video...
