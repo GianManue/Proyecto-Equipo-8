@@ -30,7 +30,7 @@
 - Posible Solución: Realizar pequeñas pruebas con el módulo para modificar algunas medidas y hacer mejoras en el modelado 3D.
 ## Imágenes y videos de prueba
 Implementación del case y los componentes
-...imagen...
+![integracionhardware_1](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143301247/6f57e01c-95ed-42cd-b3a9-a84c1c1995a6)
 
 Pruebas de los sensores
 ...imagen y video...
