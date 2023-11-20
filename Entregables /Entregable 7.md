@@ -37,6 +37,6 @@
 ### Pruebas de los sensores
 ![testeo_1](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143301247/4a7059fd-4b48-44d7-94f5-6e2bae10d0d3)
 [[https://drive.google.com/file/d/1PL_Z3bpm8nl_WgxrfWn5lu9DBpf63P_T/view](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143301247/71eea471-9128-4a16-a74c-7094bf1f0978
-)https://github.com/Kusi12/Proyecto-Equipo-8/assets/143301247/71eea471-9128-4a16-a74c-7094bf1f0978](https://github.com/Kusi12/Proyecto-Equipo-8/issues/43#issue-2003155965)https://github.com/Kusi12/Proyecto-Equipo-8/issues/43#issue-2003155965
+Video de testeo (también puede ser encontrado en issues > testeo_2): https://drive.google.com/file/d/1PL_Z3bpm8nl_WgxrfWn5lu9DBpf63P_T/view
 
 
