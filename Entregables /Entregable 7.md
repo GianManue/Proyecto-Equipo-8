@@ -19,7 +19,7 @@
 ### Manufactura digital: Modelado 3D
 - Limitaciones: Hacer un buen boceto y calcular bien la dimensiones de la carcasa superior, inferior y las laterales para que los componentes puedan encajar y ser unidas con tornillos. Las dimensiones de algunos componentes para el ensamblado no se obtuvieron de manera específica en plataformas como grabcad.
 - Retos: El modelado de los soportes de los componentes fueron diseñados de acuerdo a las medidas generales, todo ello tomando en cuenta la funcionalidad y posición dentro del case.
-- Posibles soluciones Diseñar y modificar las dimensiones de la carcasa general para que todos los componentes y piezas encajen e interfieran con la parte de la electrónica. Diseñar soportes tomando en cuenta las medidas para que estas sirvan de anclaje de los componentes. Hacer algunos cambios en el diseño dependiendo del cambio de componentes( Batería de 9v- pilas de litio: diseño del case para la batería).
+- Posibles soluciones Diseñar y modificar las dimensiones de la carcasa general para que todos los componentes y piezas encajen e interfieran con la parte de la electrónica. Diseñar soportes tomando en cuenta las medidas para que estas sirvan de anclaje de los componentes. Hacer algunos cambios en el diseño dependiendo del cambio de componentes (Batería de 9v- pilas de litio: diseño del case para la batería).
 ### Manufactura digital: Impresión 3D
 - Limitación: Prototipo debe ser resistente/robusto para proteger los componentes que resguarda en el interior.
 - Reto: Diseñar un protector que permita que el prototipo tenga caídas sin daños decisivos para su funcionamiento.
