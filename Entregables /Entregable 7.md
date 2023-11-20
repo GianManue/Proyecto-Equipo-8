@@ -1,7 +1,6 @@
 # Entregable 7: Reporte de Pruebas, retos y limitaciones
 ## Módulos
 #Include <WiFi.h>: Esta línea incluye la biblioteca WiFi, que permite al ESP32 conectarse a una red Wi-Fi. #Include <PubSubClient.h>: Esta línea incluye la biblioteca PubSubClient, que se utiliza para implementar la comunicación MQTT en el ESP32. Funciones auxiliares :
-
 - callback(char* topic, byte* payload, unsigned int length): Esta función se llama cuando el ESP32 recibe mensajes del servidor MQTT. Toma el tema (topic) y los datos (payload) del mensaje recibido. reconnect(): Esta función se encarga de establecer y gestionar la conexión MQTT con el servidor de Ubidots.
 - Función de configuración ( setup()): La función setup()se ejecuta una vez al inicio del programa y de otras funciones como configurar la comunicación serial para la depuración, iniciar la conexión a la red Wi-Fi ,configurar el pin SENSOR como entrada para leer el valor del sensor,establecer la conexión al servidor MQTT de Ubidots y asociar la función callback al cliente MQTT.
 - Función de Ciclo Principal ( loop()) : La función loop()se ejecuta de forma repetida. Comprueba si el cliente MQTT está conectado. Si no lo está, llama a la función reconnect()para volver a conectarse. Lee el valor del sensor conectado al pin SENSOR. Convierte el valor del sensor en una cadena y lo agrega al mensaje MQTT (payload). Publica el mensaje en el tema (topic) especificado. Llama a client.loop()para mantener la comunicación MQTT. Espere 500 milisegundos antes de repetir el ciclo.
@@ -29,3 +28,9 @@
 - Limitación: La integración de los componentes, con la manufactura 3D, con la forma de unión de las piezas (pernos) no es precisa o predecible.
 - Reto: Hacer que los pernos encajen con los orificios destinados a ello.
 - Posible Solución: Realizar pequeñas pruebas con el módulo para modificar algunas medidas y hacer mejoras en el modelado 3D.
+## Imágenes y videos de prueba
+Implementación del case y los componentes
+...imagen...
+
+Pruebas de los sensores
+...imagen y video...
