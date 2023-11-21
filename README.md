@@ -10,9 +10,7 @@ Bienvenidos al repositorio del Grupo 8 del curso Fundamentos de Biodiseño
 |* Ana Paula Cornejo Salazar (Coordinadora de Impresión 3D)|- Se encargará de la impresión 3D del prototipo cuando su modelado final esté terminado.| Asimismo, trabaja con la coordinadora de Diseño y Modelado 3D para llegar a un acuerdo en cuanto a las especificaciones que debe tener el prototipo para que su impresión 3D proceda sin problemas.|
 
 
-![casadas]
 
-  
 Prototipo ECG-PORTÁTIL (open hardware) para aplicaciones de educación STEM
 
 ## Contexto social
