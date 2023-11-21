@@ -17,7 +17,7 @@ Prototipo ECG-PORTÁTIL (open hardware) para aplicaciones de educación STEM
 
 ### Importancia de la educación STEM
 
-En la última década, la educación STEM ha sido uno de los puntos de enfoque en los que se ha estado trabajando. Este es una especie de aprendizaje basado en proyectos sobre la participación de los estudiantes.  Utiliza el proceso de investigación científica y diseño de ingeniería. Es un aprendizaje interdisciplinario activo.
+En la última década, la educación STEM ha sido uno de los puntos de enfoque en los que se ha estado trabajando, esto se puede notar , por ejemplo, en el paper Educación de niñas y mujeres en ciencia, tecnología, ingeniería y matemáticas (STEM) de la UNESCO. Este es una especie de aprendizaje basado en proyectos sobre la participación de los estudiantes.  Utiliza el proceso de investigación científica y diseño de ingeniería. Es un aprendizaje interdisciplinario activo.
 
 La educación STEM es esencial para preparar a las generaciones futuras para las demandas del mercado laboral en constante evolución, ya que muchas de las profesiones y carreras del futuro requerirán competencias en estas áreas. También desempeña un papel crucial en el avance de la ciencia y la tecnología, así como en la resolución de los desafíos globales que enfrenta la humanidad.
 
@@ -33,7 +33,7 @@ Según el “Plan Bicentenario: Perú hacia 2021” (Plan Bicentenario. El Perú
 
 Además de las diferentes barreras que se han presentado en los últimos años sobre el desarrollo académico y profesional de los universitarios. Los hallazgos de Ramos (2019) muestran el papel de los factores contextuales y el vínculo con los comportamientos relacionados con la carrera que pueden afectar el progreso de los estudiantes universitarios y pueden crear implicaciones académicas y económicas en las universidades.[3]
 
-Lo cual viene a implicar directamente la formación y método de enseñanza que se presenta en las diferentes universidades. Cabe destacar que ello viene a partir  de la infraestructura y/o hasta materiales académicos. Desafortunadamente, las herramientas que permiten la investigación impulsada por los estudiantes tienden a tener un precio mucho más alto que el laboratorio en una caja fuertemente dirigida, lo que lleva a un abismo despectivo de igualdad entre las escuelas que tienen fondos adecuados y las que no.
+Lo cual viene a implicar directamente la formación y método de enseñanza que se presenta en las diferentes universidades. Cabe destacar que ello viene a partir  de la infraestructura y/o hasta materiales académicos. Desafortunadamente, las herramientas que permiten la investigación impulsada por los estudiantes tienden a tener un precio mucho más alto que el laboratorio en una caja fuertemente dirigida, lo que lleva a un abismo despectivo de igualdad entre las escuelas que tienen fondos adecuados y las que no. Esto provoca la diferencia en conocimiento pràctico entre los alumnos de universidades privadas y públicas (informacion recopilada de EstudiaPerú).
 
 ### Open hardware y educación STEM
 
@@ -64,10 +64,10 @@ En el área de la atención médica en particular, la innovación en dispositivo
 
 ## Problemática
 
-¿Cómo podríamos impulsar el interés por el área de detección de cardiopatías mediante la innovación en estudiantes para evitar fallecimientos por cardiopatías congénitas mediante una detección temprana?
+¿Cómo podríamos impulsar el interés por el área de detección de cardiopatías mediante la innovación en estudiantes y orientarlos a una educaciòn STEM?
 
 ###  Formulación de problemática
-¿Cómo podríamos diseñar un Open Hardware de bajo costo,  que cumpla funciones básicas para el entrenamiento de enfermeros sobre la interpretación de señales cardiácas todo ello en base al funcionamiento de los ECGs portátiles?
+¿Cómo podríamos diseñar un Open Hardware de bajo costo,  que cumpla funciones básicas para su uso como detectos de EKG sobre la interpretación de señales cardiácas todo ello en base al funcionamiento de los ECGs portátiles?
 
 ## Estado del Arte científico
 
