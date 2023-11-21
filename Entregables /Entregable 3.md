@@ -40,6 +40,7 @@
 ![matriz_morfologica](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143301247/dfc7e4b5-fcba-4bb9-8052-6806b247a672)
 
 ## Tabla de valoración
-...imagen
+![tabla_valoracion](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143301247/4df8b589-0aa4-40dc-b9b6-ceb6bed4ca09)
+
 ## Conclusiones
 En conclusión, después de haber hecho una correcta valoración de los conceptos de solución, la propuesta 3 resulto ganadora puesto que presentó un mayor valoración.
