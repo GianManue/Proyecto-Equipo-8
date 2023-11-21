@@ -21,12 +21,19 @@ Enlaces para ver en la plataforma Onshape
     https://cad.onshape.com/documents/d8d8de35cac338f14f539bc9/w/fffa79d498a347beae2b1994/e/89c882cb55d191cf012940fa?renderMode=0&uiState=655c4b23047e2f3b0c2ab7e4
   
 - Tapa con soportes:  
-     https://cad.onshape.com/documents/8701d842a11798cc2daa2280/w/fabaf6ffb3ec3047bdf00d46/e/a1990a3b90756a40b9e8a798?renderMode=0&uiState=6542f41a4db1fe60a47ca669
+     https://cad.onshape.com/documents/d8d8de35cac338f14f539bc9/w/fffa79d498a347beae2b1994/e/71f993a9621a331b60ac4148?renderMode=0&uiState=655c4bf6047e2f3b0c2ab8f2
+- Tapa arriba
+  
 - Tapa superior: 
     https://cad.onshape.com/documents/d27653f364208cdf30e69355/w/7051d529d66c30fa6cbc7690/e/a34d291e62128187797262a4?renderMode=0&uiState=6542f4606559cc4a64920703
 - tapa infeferior: 
     https://cad.onshape.com/documents/8ffec9f7b882d98b36f9a70e/w/16ad73dca82b393dc53030ad/e/c65f1d701e9005249d1cc722?renderMode=0&uiState=6542f48e4db1fe60a47ca74d
-
+- Cracasa
+    https://cad.onshape.com/documents/a0ffb6a24ae6ee4e7163df51/w/52c7c69d0e6a3a78dea1809c/e/3e339426951c74b22962256f?renderMode=0&uiState=655c4dda5de5e84155489b8c
+- tapa batería 9V
+    https://cad.onshape.com/documents/7d4da797c2cd732e764554af/w/96fce972dc42bc683523b643/e/dc002cbbcc73b366e1049106?renderMode=0&uiState=655c4db6047e2f3b0c2ad787
+- Enganche
+    https://cad.onshape.com/documents/258ec6824e7ec4cb983512c8/w/fc122f8c4ae683622e324fbd/e/8f97ec57cd59307eceadc44a?renderMode=0&uiState=655c4cefa092d53e3cae5ca9
 
 ### Planos
 - Tapa con soportes:
