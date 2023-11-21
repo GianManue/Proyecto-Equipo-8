@@ -37,7 +37,8 @@
 ![esquema_funciones](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143301247/23232aac-fa70-4168-a614-ae2cd35a2391)
 ![esquema_funciones_leyenda](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143301247/01bf5dd5-9f97-4aba-bd93-084dcaad5a7e)
 ## Matriz morfológica
-...imagen
+![matriz_morfologica](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143301247/dfc7e4b5-fcba-4bb9-8052-6806b247a672)
+
 ## Tabla de valoración
 ...imagen
 ## Conclusiones
