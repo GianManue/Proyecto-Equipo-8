@@ -23,7 +23,7 @@ Enlaces para ver en la plataforma Onshape
 - Tapa con soportes:  
      https://cad.onshape.com/documents/d8d8de35cac338f14f539bc9/w/fffa79d498a347beae2b1994/e/71f993a9621a331b60ac4148?renderMode=0&uiState=655c4bf6047e2f3b0c2ab8f2
 - Tapa arriba
-  
+      https://cad.onshape.com/documents/7c2bf2c9a661422bf840ec49/w/c1ac65cdbf928e0604ee3313/e/8b93d49c57a7d1f1ad0c8eae
 - Tapa superior: 
     https://cad.onshape.com/documents/d27653f364208cdf30e69355/w/7051d529d66c30fa6cbc7690/e/a34d291e62128187797262a4?renderMode=0&uiState=6542f4606559cc4a64920703
 - tapa infeferior: 
@@ -34,7 +34,13 @@ Enlaces para ver en la plataforma Onshape
     https://cad.onshape.com/documents/7d4da797c2cd732e764554af/w/96fce972dc42bc683523b643/e/dc002cbbcc73b366e1049106?renderMode=0&uiState=655c4db6047e2f3b0c2ad787
 - Enganche
     https://cad.onshape.com/documents/258ec6824e7ec4cb983512c8/w/fc122f8c4ae683622e324fbd/e/8f97ec57cd59307eceadc44a?renderMode=0&uiState=655c4cefa092d53e3cae5ca9
-
+#### Componentes
+- Módulo ECG: AD8232
+      https://cad.onshape.com/documents/d8d8de35cac338f14f539bc9/w/fffa79d498a347beae2b1994/e/645e2e77a701c58c30ced0d4?renderMode=0&uiState=655c4eff047e2f3b0c2ad995
+- ESP32
+      https://cad.onshape.com/documents/d8d8de35cac338f14f539bc9/w/fffa79d498a347beae2b1994/e/47cc72398d4f2970deed23c2?renderMode=0&uiState=655c4f5d047e2f3b0c2ad9c3
+- Regulador de Bateria
+      https://cad.onshape.com/documents/6c4dabe87cd9645f2baa375d/w/8bf79ff02cb1101240ca1b64/e/fff079ec54f387b3ffee573d?renderMode=0&uiState=655c513e5de5e8415548a40f
 ### Planos
 - Tapa con soportes:
   [Plano Tapa con soportes v8.pdf](https://github.com/Kusi12/Proyecto-Equipo-8/files/13247445/Plano.Tapa.con.soportes.v8.pdf)
