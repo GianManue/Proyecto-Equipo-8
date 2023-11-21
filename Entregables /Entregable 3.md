@@ -32,7 +32,7 @@
 |Módulo ECG: para sensar|AD8232 funciona mediante el uso de un amplificador de instrumentación para amplificar la señal eléctrica débil del corazón, un filtro de señal para eliminar el ruido y las interferencias de la señal y una interfaz de conexión para electrodos. |![descarga (1)](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/282c2f4f-6d6e-423c-b878-45e39ecf7e94)|
 |Reguladro de Bateria|regulador de voltaje es un dispositivo electrónico diseñado para mantener un nivel de tensión constante|![1-250x250](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/cc57d48d-d801-498b-b93e-82a26f9d8a5c)|
 ## Caja negra
-...imagen
+![caja_negra](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143301247/1053d639-c503-4da5-bc29-06c64aacf007)
 ## Esquema de funciones
 ...imagen
 ## Matriz morfológica
