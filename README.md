@@ -205,8 +205,10 @@ En conclusión, después de haber hecho una correcta valoración de los concepto
 # Entregable 6
 ## Hardware:
 Diseño esquemático del circuito electrónico(Versión final según observaciones del entregable anterior)
-- Diseño esquematico corregido: [Schematic_HolterV1_2023-10-18.pdf](https://github.com/Kusi12/Proyecto-Equipo-8/files/13250380/Schematic_HolterV1_2023-10-18.pdf)
+- Diseño esquematico corregido: [Schematic_HolterV1_2023-10-18.pdf]
+(https://github.com/Kusi12/Proyecto-Equipo-8/files/13250380/Schematic_HolterV1_2023-10-18.pdf)
 
+![image](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/d2eaa7d5-d562-4add-8e03-da8625803763)
 ## Software:
 Script de programación para el microcontrolador (Versión corregida)
 - [Script de programación para el microcontrolador.pdf](https://github.com/Kusi12/Proyecto-Equipo-8/files/13247868/Script.de.programacion.para.el.microcontrolador.pdf)
