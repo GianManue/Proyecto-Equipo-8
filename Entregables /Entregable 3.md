@@ -35,7 +35,7 @@
 ![caja_negra](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143301247/1053d639-c503-4da5-bc29-06c64aacf007)
 ## Esquema de funciones
 ![esquema_funciones](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143301247/23232aac-fa70-4168-a614-ae2cd35a2391)
-
+![esquema_funciones_leyenda](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143301247/01bf5dd5-9f97-4aba-bd93-084dcaad5a7e)
 ## Matriz morfológica
 ...imagen
 ## Tabla de valoración
