@@ -10,7 +10,7 @@ Bienvenidos al repositorio del Grupo 8 del curso Fundamentos de Biodiseño
 |* Ana Paula Cornejo Salazar (Coordinadora de Impresión 3D)|- Se encargará de la impresión 3D del prototipo cuando su modelado final esté terminado.| Asimismo, trabaja con la coordinadora de Diseño y Modelado 3D para llegar a un acuerdo en cuanto a las especificaciones que debe tener el prototipo para que su impresión 3D proceda sin problemas.|
 
 
-![casadas]
+![]
 
   
 Prototipo ECG-PORTÁTIL (open hardware) para aplicaciones de educación STEM
@@ -19,7 +19,7 @@ Prototipo ECG-PORTÁTIL (open hardware) para aplicaciones de educación STEM
 
 ### Importancia de la educación STEM
 
-En la última década, la educación STEM ha sido uno de los puntos de enfoque en los que se ha estado trabajando. Este es una especie de aprendizaje basado en proyectos sobre la participación de los estudiantes.  Utiliza el proceso de investigación científica y diseño de ingeniería. Es un aprendizaje interdisciplinario activo.
+En la última década, la educación STEM ha sido uno de los puntos de enfoque en los que se ha estado trabajando, evidenciado en el artìculo de la UNESCO titulado "Educación en STEM en tiempos de crisis, una apuesta al futuro". Este es una especie de aprendizaje basado en proyectos sobre la participación de los estudiantes.  Utiliza el proceso de investigación científica y diseño de ingeniería. Es un aprendizaje interdisciplinario activo.
 
 La educación STEM es esencial para preparar a las generaciones futuras para las demandas del mercado laboral en constante evolución, ya que muchas de las profesiones y carreras del futuro requerirán competencias en estas áreas. También desempeña un papel crucial en el avance de la ciencia y la tecnología, así como en la resolución de los desafíos globales que enfrenta la humanidad.
 
@@ -35,15 +35,15 @@ Según el “Plan Bicentenario: Perú hacia 2021” (Plan Bicentenario. El Perú
 
 Además de las diferentes barreras que se han presentado en los últimos años sobre el desarrollo académico y profesional de los universitarios. Los hallazgos de Ramos (2019) muestran el papel de los factores contextuales y el vínculo con los comportamientos relacionados con la carrera que pueden afectar el progreso de los estudiantes universitarios y pueden crear implicaciones académicas y económicas en las universidades.[3]
 
-Lo cual viene a implicar directamente la formación y método de enseñanza que se presenta en las diferentes universidades. Cabe destacar que ello viene a partir  de la infraestructura y/o hasta materiales académicos. Desafortunadamente, las herramientas que permiten la investigación impulsada por los estudiantes tienden a tener un precio mucho más alto que el laboratorio en una caja fuertemente dirigida, lo que lleva a un abismo despectivo de igualdad entre las escuelas que tienen fondos adecuados y las que no.
+Lo cual viene a implicar directamente la formación y método de enseñanza que se presenta en las diferentes universidades. Cabe destacar que ello viene a partir  de la infraestructura y/o hasta materiales académicos. Desafortunadamente, las herramientas que permiten la investigación impulsada por los estudiantes tienden a tener un precio mucho más alto que el laboratorio en una caja fuertemente dirigida, lo que lleva a un abismo despectivo de igualdad entre las escuelas que tienen fondos adecuados y las que no. 
 
 ### Open hardware y educación STEM
 
 En el siglo XXI se espera lograr diferentes de objetivos como "Educación integral para todos", "democratización del conocimiento" y el objetivo de desarrollo sostenible 2030, que "garantiza una educación de calidad inclusiva y equitativa y promueve oportunidades de aprendizaje permanente para todos" [3]
 
-El creciente número de estudiantes en todo el mundo, el sistema educativo convencional y su acceso son inadecuados para alcanzar el objetivo educativo 2030 para el desarrollo sostenible. Por tanto, la demanda del tiempo es impulsar un sistema educativo con todas las posibilidades de innovación abierta. La facilidad de disponibilidad de software y hardware y la llegada de la tecnología hacen que el sistema educativo sea factible para llevar a cabo la educación superior en un contexto más eficaz en líneas de crecimiento e innovación.[4]
+El creciente número de estudiantes en todo el mundo, el sistema educativo convencional y su acceso son inadecuados para alcanzar el objetivo educativo 2030 para el desarrollo sostenible. Por tanto, la demanda del tiempo es impulsar un sistema educativo con todas las posibilidades de innovación abierta. La facilidad de disponibilidad de software y hardware y la llegada de la tecnología hacen que el sistema educativo sea factible para llevar a cabo la educación superior en un contexto más eficaz en líneas de crecimiento e innovación(Datos recopilados de "EstudiaPerù".[4]
 
-Entonces, un sistema educativo sin barreras físicas mediante el uso de diferentes tipos de recursos abiertos y gratuitos; llegaría a ser una manera de promover eficazmente las actividades en la educación STEM. 
+Según papers de "Colombia aprende" y de "Ferrovial" la educación STEM debe promover la creatividad eincorporar el aprendizaje pràctico ,entonces, un sistema educativo sin barreras físicas mediante el uso de diferentes tipos de recursos abiertos y gratuitos; llegaría a ser una manera de promover eficazmente las actividades en la educación STEM. 
 
 El desarrollo de un prototipo como material didáctico STEM para el aprendizaje orientado a problemas ABP; puede ayudar a los estudiantes a desarrollar habilidades de innovación y resolución de problemas. Mediante este proceso práctico, los estudiantes tendrán una formación integral en el cual sepan reaccionar y desenvolverse  un mundo de auge tecnológico. Cabe mencionar que estudios anteriores demostraron que al utilizar microcontroladores Arduino rentables con varios kits mecánicos, los estudiantes pueden cultivar una buena alfabetización en innovación en la enseñanza STEM [5]
 
