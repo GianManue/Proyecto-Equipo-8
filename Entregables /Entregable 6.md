@@ -18,7 +18,7 @@ DFD de un programa en Arduino:
 ### Ensamble final / Case/ Componentes
 Enlaces para ver en la plataforma Onshape
 - Ensamble en onshape:
-    https://cad.onshape.com/documents/d8d8de35cac338f14f539bc9/w/fffa79d498a347beae2b1994/e/89c882cb55d191cf012940fa?renderMode=0&uiState=655c4a89047e2f3b0c2ab6d6
+    https://cad.onshape.com/documents/d8d8de35cac338f14f539bc9/w/fffa79d498a347beae2b1994/e/89c882cb55d191cf012940fa?renderMode=0&uiState=655c4b23047e2f3b0c2ab7e4
   
 - Tapa con soportes:  
      https://cad.onshape.com/documents/8701d842a11798cc2daa2280/w/fabaf6ffb3ec3047bdf00d46/e/a1990a3b90756a40b9e8a798?renderMode=0&uiState=6542f41a4db1fe60a47ca669
